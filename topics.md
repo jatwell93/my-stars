@@ -203,6 +203,7 @@
 
 ## awesome 
 
+- [sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi) - Sci-Fi worth consuming
 - [arbox/machine-learning-with-ruby](https://github.com/arbox/machine-learning-with-ruby) - Curated list: Resources for machine learning in Ruby
 - [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses with certifications. Also available at https://free-certifications.com/
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
@@ -213,6 +214,7 @@
 
 ## awesome-list 
 
+- [sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi) - Sci-Fi worth consuming
 - [fpsvogel/learn-ruby](https://github.com/fpsvogel/learn-ruby) - Learning resources for Ruby, Rails, and related skills.
 - [arbox/machine-learning-with-ruby](https://github.com/arbox/machine-learning-with-ruby) - Curated list: Resources for machine learning in Ruby
 - [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses with certifications. Also available at https://free-certifications.com/
@@ -570,6 +572,8 @@
 
 ## others 
 
+- [jlevy/markform](https://github.com/jlevy/markform) - Structured Markdown documents for agents and humans
+- [Nutlope/llamatutor](https://github.com/Nutlope/llamatutor) - An AI personal tutor built with Llama 3.1
 - [dtwelvespacespvt/datasense](https://github.com/dtwelvespacespvt/datasense) - Chat with your data - AI data analysis and visualization on CSV, Postgres, MySQL, Snowflake, SQLite...
 - [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) - State-of-the-art TTS model under 25MB 😻
 - [mjcrepeau/retirement-planner](https://github.com/mjcrepeau/retirement-planner) - Retirement account calculator
@@ -613,7 +617,6 @@
 - [coleam00/mcp-crawl4ai-rag](https://github.com/coleam00/mcp-crawl4ai-rag) - Web Crawling and RAG Capabilities for AI Agents and AI Coding Assistants
 - [coleam00/Archon](https://github.com/coleam00/Archon) - Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
 - [LoredCast/filewizard](https://github.com/LoredCast/filewizard) - File Converter, OCR, Transcription & TTS WebUI
-- [built-by-as/FleetCode](https://github.com/built-by-as/FleetCode) - Light-weight control pane to run CLI coding agents(Claude Code, Codex) in parallel
 - [ossu/data-science](https://github.com/ossu/data-science) - 📊 Path to a free self-taught education in Data Science!
 - [barisgit/spec-kit-improved](https://github.com/barisgit/spec-kit-improved) - Advanced toolkit to help you get started with Spec-Driven Development
 - [docker/mcp-gateway](https://github.com/docker/mcp-gateway) - docker mcp CLI plugin / MCP Gateway
