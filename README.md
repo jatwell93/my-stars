@@ -165,7 +165,6 @@
 ## Rust 
 
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
-- [saldestechnology/ctx](https://github.com/saldestechnology/ctx) - 🧠 LLM code intelligence and context optimisation for large codebases
 - [golbin/gw](https://github.com/golbin/gw) - 
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
 - [Dicklesworthstone/coding_agent_session_search](https://github.com/Dicklesworthstone/coding_agent_session_search) - 
@@ -185,6 +184,7 @@
 
 ## TypeScript 
 
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [jlevy/markform](https://github.com/jlevy/markform) - Structured Markdown documents for agents and humans
 - [Nutlope/llamatutor](https://github.com/Nutlope/llamatutor) - An AI personal tutor built with Llama 3.1
