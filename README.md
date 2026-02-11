@@ -157,7 +157,7 @@
 - [mchzimm/llm-council-local-improved](https://github.com/mchzimm/llm-council-local-improved) - Local LLM Council works together "to-the-max" to answer your hardest questions!
 - [memory-graph/memory-graph](https://github.com/memory-graph/memory-graph) - A graph DB-based MCP memory server for coding agents with intelligent relationship tracking
 - [stabldev/torrra](https://github.com/stabldev/torrra) - A Python tool that lets you search and download torrents without leaving your CLI.
-- [topoteretes/cognee](https://github.com/topoteretes/cognee) - Memory for AI Agents in 6 lines of code
+- [topoteretes/cognee](https://github.com/topoteretes/cognee) - Knowledge Engine for AI Agent Memory in 6 lines of code
 - [nathan-barry/tiny-diffusion](https://github.com/nathan-barry/tiny-diffusion) - A character-level language diffusion model trained on Tiny Shakespeare
 - [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
 - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
