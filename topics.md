@@ -776,6 +776,7 @@
 
 ## others 
 
+- [nguyenphutrong/agentlens](https://github.com/nguyenphutrong/agentlens) - Scan codebases and generate hierarchical symbol maps, module summaries, and memory markers to help AI assistants (Claude, Cursor) navigate your code effectively.
 - [block/mcp-council-of-mine](https://github.com/block/mcp-council-of-mine) - 
 - [block/ai-rules](https://github.com/block/ai-rules) - Manage AI rules, commands, and skills across multiple coding agents from one place.
 - [sddiv/NLSpec-MCPServer](https://github.com/sddiv/NLSpec-MCPServer) - Generating NLSpec-Server from NLSpec using Claude Code
