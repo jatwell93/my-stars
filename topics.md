@@ -791,7 +791,7 @@
 - [ClaytonFarr/ralph-playbook](https://github.com/ClaytonFarr/ralph-playbook) - A comprehensive guide to running autonomous AI coding loops using Geoff Huntley's Ralph methodology. View as formatted guide below 👇
 - [ComposioHQ/secure-openclaw](https://github.com/ComposioHQ/secure-openclaw) - A personal 24x7 AI assistant like OpenClaw that runs on your messaging platforms. Send a message on WhatsApp, Telegram, Signal, or iMessage and get responses from Claude with full tool access, persist
 - [Arcanum-Sec/sec-context](https://github.com/Arcanum-Sec/sec-context) - AI Code Security Anti-Patterns distilled from 150+ sources to help LLMs generate safer code.
-- [malteristo/magic](https://github.com/malteristo/magic) - the practice of magic
+- [malteristo/magic](https://github.com/malteristo/magic) - apply intelligence to life
 - [whawkinsiv/solo-founder-superpowers](https://github.com/whawkinsiv/solo-founder-superpowers) - Complete software development lifecycle skills optimized for non-technical founders building SaaS applications with AI tools (Lovable, Replit, Claude Code).
 - [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
 - [codescene-oss/codescene-mcp-server](https://github.com/codescene-oss/codescene-mcp-server) - The CodeScene MCP Server exposes CodeScene’s Code Health analysis as local AI-friendly tools.
@@ -813,7 +813,7 @@
 - [siinghd/yourinfo](https://github.com/siinghd/yourinfo) - Real-time browser fingerprinting demo with cross-browser tracking, behavioral analysis, Grok AI profiling, and interactive 3D globe visualization
 - [wizarrrr/wizarr](https://github.com/wizarrrr/wizarr) - Wizarr is an advanced user invitation and management system for Jellyfin, Plex, Emby etc.
 - [AbhishekChauhan9036/ruby-30-days-code](https://github.com/AbhishekChauhan9036/ruby-30-days-code) - 
-- [basecamp/once-campfire](https://github.com/basecamp/once-campfire) - 
+- [basecamp/once-campfire](https://github.com/basecamp/once-campfire) - Super simple group chat, without a subscription
 - [railsadminteam/rails_admin](https://github.com/railsadminteam/rails_admin) - RailsAdmin is a Rails engine that provides an easy-to-use interface for managing your data
 - [HKUDS/Paper2Slides](https://github.com/HKUDS/Paper2Slides) - "Paper2Slides: From Paper to Presentation in One Click"
 - [msitarzewski/AGENT-ZERO](https://github.com/msitarzewski/AGENT-ZERO) - Operational framework and patterns for high-quality, AI-assisted software development. This repository provides a single canonical guide for AGENTS.md and a lightweight workflow for repeatable, audita
