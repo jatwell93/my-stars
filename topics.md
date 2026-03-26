@@ -47,6 +47,7 @@
 - [design](#design)
 - [developer-tools](#developer-tools)
 - [development](#development)
+- [distributed-systems](#distributed-systems)
 - [docker](#docker)
 - [documentation](#documentation)
 - [education](#education)
@@ -75,6 +76,7 @@
 - [html](#html)
 - [html5](#html5)
 - [information-gathering](#information-gathering)
+- [instagram](#instagram)
 - [ios](#ios)
 - [java](#java)
 - [javascript](#javascript)
@@ -145,6 +147,7 @@
 - [testing](#testing)
 - [trading](#trading)
 - [tui](#tui)
+- [twitter](#twitter)
 - [typescript](#typescript)
 - [ui](#ui)
 - [ui-design](#ui-design)
@@ -157,12 +160,13 @@
 - [webapp](#webapp)
 - [website](#website)
 - [windows](#windows)
+- [youtube](#youtube)
 
 ## agent 
 
 - [open-gitagent/gitagent](https://github.com/open-gitagent/gitagent) - A framework-agnostic, git-native standard for defining AI agents
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
-- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that coul
+- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
 - [NeoLabHQ/context-engineering-kit](https://github.com/NeoLabHQ/context-engineering-kit) - Hand-crafted Claude Code Skills focused on improving agent results quality. Compatible with OpenCode, Cursor, Antigravity, Gemini CLI, and others.
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol
@@ -173,7 +177,7 @@
 
 - [calesthio/Crucix](https://github.com/calesthio/Crucix) - Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.
 - [alumnium-hq/alumnium](https://github.com/alumnium-hq/alumnium) - Pave the way towards AI-powered test automation.
-- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that coul
+- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
 - [mikeyobrien/ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) - An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
 - [NeoLabHQ/context-engineering-kit](https://github.com/NeoLabHQ/context-engineering-kit) - Hand-crafted Claude Code Skills focused on improving agent results quality. Compatible with OpenCode, Cursor, Antigravity, Gemini CLI, and others.
@@ -218,7 +222,7 @@
 - [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) - 204 AI skills, 559 Python tools, 19 role-based agents — for Claude Code, Cursor, Copilot, Codex & more. Engineering, Marketing, Product, PM, C-Level, Compliance, Finance, HR, Sales, Data Analytics, Bu
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [deanpeters/Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills) - Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents.
-- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that coul
+- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
 - [mikeyobrien/ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) - An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
@@ -265,7 +269,7 @@
 ## artificial-intelligence 
 
 - [CodeWithCJ/SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness) - SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.
-- [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
+- [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🚀🚀 「大模型」2小时完全从0训练64M的小参数GPT！🌏 Train a 64M-parameter GPT from scratch in just 2h!
 
 ## automation 
 
@@ -468,6 +472,10 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 
+## distributed-systems 
+
+- [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources.
+
 ## docker 
 
 - [SirChri/employee-shift-scheduler](https://github.com/SirChri/employee-shift-scheduler) - A simple employee shift scheduler, based on React, Java (SpringBoot) and PostgreSQL.
@@ -489,7 +497,7 @@
 
 ## electron 
 
-- [webadderall/Recordly](https://github.com/webadderall/Recordly) - The open-source screen recorder and editor for professional product videos, demos, and tutorials. Add auto-zooms, webcam overlays, cursor animations and more to your recordings.
+- [webadderall/Recordly](https://github.com/webadderall/Recordly) - Recordly is a powerful open-source screen recorder and editor for professional product videos, demos, and tutorials. Adds auto-zooms, webcam overlays, cursor animations and more to your recordings.
 - [MrSibe/KnowNote](https://github.com/MrSibe/KnowNote) - A local-first AI knowledge base & NotebookLM alternative built with Electron. More convenient, more lightweight, and understands you better!
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 
@@ -609,6 +617,10 @@
 
 - [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) - Useful tool to track location or mobile number
 
+## instagram 
+
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+
 ## ios 
 
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
@@ -654,7 +666,7 @@
 
 ## linux 
 
-- [webadderall/Recordly](https://github.com/webadderall/Recordly) - The open-source screen recorder and editor for professional product videos, demos, and tutorials. Add auto-zooms, webcam overlays, cursor animations and more to your recordings.
+- [webadderall/Recordly](https://github.com/webadderall/Recordly) - Recordly is a powerful open-source screen recorder and editor for professional product videos, demos, and tutorials. Adds auto-zooms, webcam overlays, cursor animations and more to your recordings.
 - [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) - Useful tool to track location or mobile number
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 
@@ -664,7 +676,7 @@
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [alumnium-hq/alumnium](https://github.com/alumnium-hq/alumnium) - Pave the way towards AI-powered test automation.
-- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that coul
+- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
 - [NeoLabHQ/context-engineering-kit](https://github.com/NeoLabHQ/context-engineering-kit) - Hand-crafted Claude Code Skills focused on improving agent results quality. Compatible with OpenCode, Cursor, Antigravity, Gemini CLI, and others.
 - [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - A list of free LLM inference resources accessible via API.
@@ -702,7 +714,7 @@
 
 ## macos 
 
-- [webadderall/Recordly](https://github.com/webadderall/Recordly) - The open-source screen recorder and editor for professional product videos, demos, and tutorials. Add auto-zooms, webcam overlays, cursor animations and more to your recordings.
+- [webadderall/Recordly](https://github.com/webadderall/Recordly) - Recordly is a powerful open-source screen recorder and editor for professional product videos, demos, and tutorials. Adds auto-zooms, webcam overlays, cursor animations and more to your recordings.
 
 ## markdown 
 
@@ -765,7 +777,7 @@
 
 ## nodejs 
 
-- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that coul
+- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
 - [bitloops/ddd-hexagonal-cqrs-es-eda](https://github.com/bitloops/ddd-hexagonal-cqrs-es-eda) - Complete working example of using Domain Driven Design (DDD), Hexagonal Architecture, CQRS, Event Sourcing (ES), Event Driven Architecture (EDA), Behaviour Driven Development (BDD) using TypeScript an
 - [kaitranntt/ccs](https://github.com/kaitranntt/ccs) - Switch between Claude accounts, Gemini, Copilot, OpenRouter (300+ models) via CLIProxyAPI OAuth proxy. Visual dashboard, remote proxy support, WebSearch fallback. Zero-config to production-ready.
 - [gommzystudio/device-activity-tracker](https://github.com/gommzystudio/device-activity-tracker) - A phone number can reveal whether a device is active, in standby or offline (and more). This PoC demonstrates how delivery receipts + RTT timing leak sensitive device-activity patterns. (WhatsApp / Si
@@ -786,7 +798,7 @@
 
 ## open-source 
 
-- [webadderall/Recordly](https://github.com/webadderall/Recordly) - The open-source screen recorder and editor for professional product videos, demos, and tutorials. Add auto-zooms, webcam overlays, cursor animations and more to your recordings.
+- [webadderall/Recordly](https://github.com/webadderall/Recordly) - Recordly is a powerful open-source screen recorder and editor for professional product videos, demos, and tutorials. Adds auto-zooms, webcam overlays, cursor animations and more to your recordings.
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
 - [frappe/hrms](https://github.com/frappe/hrms) - Open Source HR and Payroll Software
 - [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A curated list of free public APIs across 48 categories — searchable, community-maintained, with a free JSON API.
@@ -820,6 +832,7 @@
 
 ## others 
 
+- [slavingia/skills](https://github.com/slavingia/skills) - Claude Code skills based on The Minimalist Entrepreneur by Sahil Lavingia
 - [neurofoo/thoughts-to-realities](https://github.com/neurofoo/thoughts-to-realities) - 
 - [neurofoo/agent-skills-stoicism](https://github.com/neurofoo/agent-skills-stoicism) - Stoicism meets Agent Skills
 - [gnekt/My-Brain-Is-Full-Crew](https://github.com/gnekt/My-Brain-Is-Full-Crew) - Built by a PhD whose memory was failing, whose diet was a mess, and whose anxiety had its own agenda. Most second brain tools ignore the fact that your brain doesn't work in isolation: your body and y
@@ -966,7 +979,7 @@
 
 - [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) - 204 AI skills, 559 Python tools, 19 role-based agents — for Claude Code, Cursor, Copilot, Codex & more. Engineering, Marketing, Product, PM, C-Level, Compliance, Finance, HR, Sales, Data Analytics, Bu
 - [alumnium-hq/alumnium](https://github.com/alumnium-hq/alumnium) - Pave the way towards AI-powered test automation.
-- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that coul
+- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
 - [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) - Useful tool to track location or mobile number
 - [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
@@ -1153,10 +1166,14 @@
 - [furkan/dockerlings](https://github.com/furkan/dockerlings) - learn docker in your terminal, with bite sized exercises
 - [Dicklesworthstone/beads_viewer](https://github.com/Dicklesworthstone/beads_viewer) - Graph-aware TUI for the Beads issue tracker: PageRank, critical path, kanban, dependency DAG visualization, and robot-mode JSON API
 
+## twitter 
+
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+
 ## typescript 
 
 - [alumnium-hq/alumnium](https://github.com/alumnium-hq/alumnium) - Pave the way towards AI-powered test automation.
-- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that coul
+- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
 - [bitloops/ddd-hexagonal-cqrs-es-eda](https://github.com/bitloops/ddd-hexagonal-cqrs-es-eda) - Complete working example of using Domain Driven Design (DDD), Hexagonal Architecture, CQRS, Event Sourcing (ES), Event Driven Architecture (EDA), Behaviour Driven Development (BDD) using TypeScript an
 - [cucumber/cucumber-js](https://github.com/cucumber/cucumber-js) - Cucumber for JavaScript
 - [kaitranntt/ccs](https://github.com/kaitranntt/ccs) - Switch between Claude accounts, Gemini, Copilot, OpenRouter (300+ models) via CLIProxyAPI OAuth proxy. Visual dashboard, remote proxy support, WebSearch fallback. Zero-config to production-ready.
@@ -1223,8 +1240,12 @@
 
 ## windows 
 
-- [webadderall/Recordly](https://github.com/webadderall/Recordly) - The open-source screen recorder and editor for professional product videos, demos, and tutorials. Add auto-zooms, webcam overlays, cursor animations and more to your recordings.
+- [webadderall/Recordly](https://github.com/webadderall/Recordly) - Recordly is a powerful open-source screen recorder and editor for professional product videos, demos, and tutorials. Adds auto-zooms, webcam overlays, cursor animations and more to your recordings.
 - [zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI) - Force Remove Copilot, Recall and More in Windows 11
+
+## youtube 
+
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 
 
 ## License
