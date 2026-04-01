@@ -67,7 +67,7 @@
 - [JordanCoin/codemap](https://github.com/JordanCoin/codemap) - a project brain for your AI. Give LLMs instant architectural context without burning tokens
 - [beclab/Olares](https://github.com/beclab/Olares) - Olares: An Open-Source Personal Cloud to Reclaim Your Data
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
-- [steveyegge/beads](https://github.com/steveyegge/beads) - Beads - A memory upgrade for your coding agent
+- [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
 - [abhinavxd/libredesk](https://github.com/abhinavxd/libredesk) - Modern, open source, self-hosted customer support desk. Single binary app.
 - [docker/mcp-gateway](https://github.com/docker/mcp-gateway) - docker mcp CLI plugin / MCP Gateway
 
@@ -114,7 +114,6 @@
 
 - [slavingia/skills](https://github.com/slavingia/skills) - Claude Code skills based on The Minimalist Entrepreneur by Sahil Lavingia
 - [neurofoo/agent-skills-stoicism](https://github.com/neurofoo/agent-skills-stoicism) - Stoicism meets Agent Skills
-- [malteristo/magic](https://github.com/malteristo/magic) - apply intelligence to life
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
 - [zhiwehu/Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises) - 100+ Python challenging programming exercises
@@ -145,18 +144,20 @@
 
 ## Python 
 
+- [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) - 204 AI skills, 559 Python tools, 19 role-based agents — for Claude Code, Cursor, Copilot, Codex & more. Engineering, Marketing, Product, PM, C-Level, Compliance, Finance, HR, Sales, Data Analytics, Bu
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [deanpeters/Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills) - Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents.
 - [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) - A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves
 - [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team
-- [alumnium-hq/alumnium](https://github.com/alumnium-hq/alumnium) - Pave the way towards AI-powered test automation.
+- [alumnium-hq/alumnium](https://github.com/alumnium-hq/alumnium) - End-to-end testing with AI
 - [block/mcp-council-of-mine](https://github.com/block/mcp-council-of-mine) - 
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
 - [samueljklee/attractor](https://github.com/samueljklee/attractor) - DOT-based pipeline runner for multi-stage AI workflows. Implements the StrongDM Attractor nlspec.
 - [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) - Useful tool to track location or mobile number
 - [kohjingyu/search-agents](https://github.com/kohjingyu/search-agents) - Code for the paper 🌳 Tree Search for Language Model Agents
+- [malteristo/magic](https://github.com/malteristo/magic) - just add consciousness
 - [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - A list of free LLM inference resources accessible via API.
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 - [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
@@ -259,7 +260,7 @@
 - [open-gitagent/gitagent](https://github.com/open-gitagent/gitagent) - A framework-agnostic, git-native standard for defining AI agents
 - [webadderall/Recordly](https://github.com/webadderall/Recordly) - Recordly is a powerful open-source screen recorder and editor for professional product videos, demos, and tutorials. Adds auto-zooms, webcam overlays, cursor animations and more to your recordings.
 - [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
-- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
+- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
 - [sddiv/NLSpec-MCPServer_Old](https://github.com/sddiv/NLSpec-MCPServer_Old) - Generating NLSpec-Server from NLSpec using Claude Code
@@ -315,7 +316,7 @@
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Power AI agents with clean web data
 - [vybestack/llxprt-code](https://github.com/vybestack/llxprt-code) - An open-source multi-provider AI assisted CLI development tool. Use whatever LLM you want to code in your terminal.
 
 ## Vue 
