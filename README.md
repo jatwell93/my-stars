@@ -57,6 +57,7 @@
 
 ## Go 
 
+- [strongdm/comply](https://github.com/strongdm/comply) - Compliance automation framework, focused on SOC2
 - [github/gh-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [iosifache/annas-mcp](https://github.com/iosifache/annas-mcp) - MCP server and CLI tool for searching and downloading documents from Anna's Archive
@@ -73,6 +74,7 @@
 
 ## HTML 
 
+- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI.
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - practice made claude perfect
 - [ClaytonFarr/ralph-playbook](https://github.com/ClaytonFarr/ralph-playbook) - A comprehensive guide to running autonomous AI coding loops using Geoff Huntley's Ralph methodology. View as formatted guide below 👇
 - [Arcanum-Sec/sec-context](https://github.com/Arcanum-Sec/sec-context) - AI Code Security Anti-Patterns distilled from 150+ sources to help LLMs generate safer code.
@@ -255,7 +257,8 @@
 
 ## TypeScript 
 
-- [millionco/expect](https://github.com/millionco/expect) - Expect tests your app in a browser so you don't have to.
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
+- [millionco/expect](https://github.com/millionco/expect) - Expect more from your agents. Test what they build in a real browser.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [neurofoo/thoughts-to-realities](https://github.com/neurofoo/thoughts-to-realities) - 
 - [open-gitagent/gitagent](https://github.com/open-gitagent/gitagent) - A framework-agnostic, git-native standard for defining AI agents
