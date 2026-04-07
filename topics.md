@@ -877,6 +877,7 @@
 
 ## others 
 
+- [nguyenvanduocit/research-kit](https://github.com/nguyenvanduocit/research-kit) - 💫 Toolkit to help you get started with Spec-Driven Research
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
 - [slavingia/skills](https://github.com/slavingia/skills) - Claude Code skills based on The Minimalist Entrepreneur by Sahil Lavingia
 - [neurofoo/thoughts-to-realities](https://github.com/neurofoo/thoughts-to-realities) - 
