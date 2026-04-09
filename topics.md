@@ -167,7 +167,7 @@
 
 ## agent 
 
-- [millionco/expect](https://github.com/millionco/expect) - Expect more from your agents. Test what they build in a real browser.
+- [millionco/expect](https://github.com/millionco/expect) - Expect tests your agent's code in a real browser
 - [open-gitagent/gitagent](https://github.com/open-gitagent/gitagent) - A framework-agnostic, git-native standard for defining AI agents
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
