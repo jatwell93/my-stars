@@ -70,7 +70,7 @@
 - [beclab/Olares](https://github.com/beclab/Olares) - Olares: An Open-Source Personal Cloud to Reclaim Your Data
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
-- [abhinavxd/libredesk](https://github.com/abhinavxd/libredesk) - Modern, open source, self-hosted omnichannel customer support desk. Live chat, email, and more in a single binary.
+- [abhinavxd/libredesk](https://github.com/abhinavxd/libredesk) - Open source, self-hosted omnichannel customer support desk. Live chat, email, and more in a single binary.
 - [docker/mcp-gateway](https://github.com/docker/mcp-gateway) - docker mcp CLI plugin / MCP Gateway
 
 ## HTML 
@@ -126,7 +126,6 @@
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi) - Sci-Fi worth consuming
 - [AchoArnold/discount-for-student-dev](https://github.com/AchoArnold/discount-for-student-dev) - This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students
-- [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses with certifications. Also available at https://free-certifications.com/
 - [msitarzewski/AGENT-ZERO](https://github.com/msitarzewski/AGENT-ZERO) - Operational framework and patterns for high-quality, AI-assisted software development. This repository provides a single canonical guide for AGENTS.md and a lightweight workflow for repeatable, audita
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [OffcierCia/Crypto-OpSec-SelfGuard-RoadMap](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap) - Here we collect and discuss the best DeFi, Blockchain and crypto-related OpSec researches and data terminals - contributions are welcome.
@@ -149,6 +148,7 @@
 
 ## Python 
 
+- [elastic/supply-chain-monitor](https://github.com/elastic/supply-chain-monitor) - 
 - [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or v
 - [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
@@ -234,7 +234,7 @@
 - [codescene-oss/codescene-mcp-server](https://github.com/codescene-oss/codescene-mcp-server) - The CodeScene MCP Server exposes CodeScene’s Code Health analysis as local AI-friendly tools.
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
-- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 91+ formats. Available for Rust, Python
+- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python
 - [golbin/gw](https://github.com/golbin/gw) - 
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
 - [Dicklesworthstone/coding_agent_session_search](https://github.com/Dicklesworthstone/coding_agent_session_search) - Unified TUI and CLI to index and search your local coding agent session history across 11+ providers (Codex, Claude, Gemini, Cursor, Aider, etc.)
@@ -243,6 +243,7 @@
 
 ## Shell 
 
+- [ChristopherKahler/aegis](https://github.com/ChristopherKahler/aegis) - Multi-agent codebase audit for Claude Code — 12 specialized personas with epistemic discourse and bias removal for high-fidelity findings
 - [nguyenvanduocit/research-kit](https://github.com/nguyenvanduocit/research-kit) - 💫 Toolkit to help you get started with Spec-Driven Research
 - [gnekt/My-Brain-Is-Full-Crew](https://github.com/gnekt/My-Brain-Is-Full-Crew) - Built by a PhD whose memory was failing, whose diet was a mess, and whose anxiety had its own agenda. Most second brain tools ignore the fact that your brain doesn't work in isolation: your body and y
 - [ExpertAnonymous/PhoneInfoga](https://github.com/ExpertAnonymous/PhoneInfoga) - PhoneInfoga is one of the most advanced tools to scan phone numbers using only free resources.
@@ -259,6 +260,7 @@
 
 ## TypeScript 
 
+- [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 - [wanikua/become-ceo](https://github.com/wanikua/become-ceo) - Your AI executive team on Discord. 7 specialized agents — Engineering, Finance, Marketing, DevOps, Legal, Management, Chief of Staff. One-click setup on any free-tier server. Built on Clawdbot.
 - [GreenSheep01201/claw-empire](https://github.com/GreenSheep01201/claw-empire) - Command Your AI Agent Empire from the CEO Desk — A local-first AI agent office simulator that orchestrates CLI, OAuth, and API-connected agents (Claude Code, Codex CLI, Gemini CLI, OpenCode, and more)
 - [inkeep/agents](https://github.com/inkeep/agents) - Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.
