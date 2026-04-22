@@ -67,6 +67,7 @@
 - [flutter](#flutter)
 - [flutter-apps](#flutter-apps)
 - [framework](#framework)
+- [frontend](#frontend)
 - [game-development](#game-development)
 - [generative-ai](#generative-ai)
 - [gh-extension](#gh-extension)
@@ -138,6 +139,7 @@
 - [reactjs](#reactjs)
 - [redux](#redux)
 - [rest-api](#rest-api)
+- [reverse-engineering](#reverse-engineering)
 - [ruby](#ruby)
 - [rust](#rust)
 - [security](#security)
@@ -151,6 +153,7 @@
 - [stable-diffusion](#stable-diffusion)
 - [support](#support)
 - [swift](#swift)
+- [tailwind](#tailwind)
 - [tailwindcss](#tailwindcss)
 - [termux](#termux)
 - [termux-hacking](#termux-hacking)
@@ -188,6 +191,7 @@
 
 ## ai 
 
+- [Manavarya09/design-extract](https://github.com/Manavarya09/design-extract) - Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Comp
 - [wanikua/become-ceo](https://github.com/wanikua/become-ceo) - Your AI executive team on Discord. 7 specialized agents — Engineering, Finance, Marketing, DevOps, Legal, Management, Chief of Staff. One-click setup on any free-tier server. Built on Clawdbot.
 - [inkeep/agents](https://github.com/inkeep/agents) - Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
@@ -215,7 +219,7 @@
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol
 - [MedChaouch/Puzld.ai](https://github.com/MedChaouch/Puzld.ai) - Multi-LLM orchestration framework
 - [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) - CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills
-- [iii-hq/iii](https://github.com/iii-hq/iii) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
+- [iii-hq/iii](https://github.com/iii-hq/iii) - iii unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
 - [403errors/repomind](https://github.com/403errors/repomind) - An open-source, AI-powered application using Agentic CAG to chat with any public GitHub repository or developer profile, offering deep code analysis, visual architecture maps and security audits
 - [CodeWithCJ/SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness) - SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.
 - [topoteretes/cognee](https://github.com/topoteretes/cognee) - Knowledge Engine for AI Agent Memory in 6 lines of code
@@ -285,7 +289,7 @@
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A curated list of free public APIs across 48 categories — searchable, community-maintained, with a free JSON API.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [iii-hq/iii](https://github.com/iii-hq/iii) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
+- [iii-hq/iii](https://github.com/iii-hq/iii) - iii unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
 
 ## artificial-intelligence 
 
@@ -338,7 +342,7 @@
 ## backend 
 
 - [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources.
-- [iii-hq/iii](https://github.com/iii-hq/iii) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
+- [iii-hq/iii](https://github.com/iii-hq/iii) - iii unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 
 ## bash 
@@ -369,6 +373,7 @@
 
 ## chrome-extension 
 
+- [Manavarya09/design-extract](https://github.com/Manavarya09/design-extract) - Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Comp
 - [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
 
 ## clash 
@@ -377,6 +382,7 @@
 
 ## claude-code 
 
+- [QuinnAho/claudemap](https://github.com/QuinnAho/claudemap) - google maps for vibecoders.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or v
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
@@ -404,6 +410,7 @@
 
 ## cli 
 
+- [Manavarya09/design-extract](https://github.com/Manavarya09/design-extract) - Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Comp
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [iosifache/annas-mcp](https://github.com/iosifache/annas-mcp) - MCP server and CLI tool for searching and downloading documents from Anna's Archive
@@ -459,6 +466,8 @@
 
 ## css 
 
+- [Manavarya09/design-extract](https://github.com/Manavarya09/design-extract) - Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Comp
+- [dembrandt/dembrandt](https://github.com/dembrandt/dembrandt) - Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.
 - [typicode/mistcss](https://github.com/typicode/mistcss) - Create visual components for React without JavaScript or TypeScript.  Leverage native HTML and CSS. It's an alternative to CSS-in-JS and CSS modules.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
@@ -513,6 +522,7 @@
 
 ## developer-tools 
 
+- [QuinnAho/claudemap](https://github.com/QuinnAho/claudemap) - google maps for vibecoders.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) - 245 Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — 653 Python tools, 32 agents, 26 slash commands
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
@@ -520,7 +530,7 @@
 - [m0n0x41d/haft](https://github.com/m0n0x41d/haft) - Engineering decisions  engine that know when they're stale. Frame, compare, decide — with evidence decay and parity enforcement. For Claude Code, Cursor, Gemini CLI, Codex and more.
 - [Dicklesworthstone/coding_agent_session_search](https://github.com/Dicklesworthstone/coding_agent_session_search) - Unified TUI and CLI to index and search your local coding agent session history across 11+ providers (Codex, Claude, Gemini, Cursor, Aider, etc.)
 - [Dicklesworthstone/ultimate_bug_scanner](https://github.com/Dicklesworthstone/ultimate_bug_scanner) - Static analysis tool that catches 1000+ bug patterns across all popular programming languages, with auto-wiring into AI coding agent quality guardrails
-- [iii-hq/iii](https://github.com/iii-hq/iii) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
+- [iii-hq/iii](https://github.com/iii-hq/iii) - iii unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
 - [Dicklesworthstone/beads_viewer](https://github.com/Dicklesworthstone/beads_viewer) - Graph-aware TUI for the Beads issue tracker: PageRank, critical path, kanban, dependency DAG visualization, and robot-mode JSON API
 - [403errors/repomind](https://github.com/403errors/repomind) - An open-source, AI-powered application using Agentic CAG to chat with any public GitHub repository or developer profile, offering deep code analysis, visual architecture maps and security audits
 - [JordanCoin/codemap](https://github.com/JordanCoin/codemap) - a project brain for your AI. Give LLMs instant architectural context without burning tokens
@@ -616,7 +626,11 @@
 ## framework 
 
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
-- [iii-hq/iii](https://github.com/iii-hq/iii) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
+- [iii-hq/iii](https://github.com/iii-hq/iii) - iii unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
+
+## frontend 
+
+- [dembrandt/dembrandt](https://github.com/dembrandt/dembrandt) - Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.
 
 ## game-development 
 
@@ -661,12 +675,12 @@
 
 ## good-first-issue 
 
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [topoteretes/cognee](https://github.com/topoteretes/cognee) - Knowledge Engine for AI Agent Memory in 6 lines of code
 
 ## graphql 
 
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 
 ## gui 
 
@@ -682,7 +696,7 @@
 
 ## hacktoberfest 
 
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A curated list of free public APIs across 48 categories — searchable, community-maintained, with a free JSON API.
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [railsgirls/guides.railsgirls.com](https://github.com/railsgirls/guides.railsgirls.com) - Rails Girls Guides
@@ -724,11 +738,11 @@
 
 ## javascript 
 
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [cucumber/cucumber-js](https://github.com/cucumber/cucumber-js) - Cucumber for JavaScript
 - [frappe/hrms](https://github.com/frappe/hrms) - Open Source HR and Payroll Software
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
-- [iii-hq/iii](https://github.com/iii-hq/iii) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
+- [iii-hq/iii](https://github.com/iii-hq/iii) - iii unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [yabwe/medium-editor](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
@@ -821,6 +835,8 @@
 
 ## mcp 
 
+- [dembrandt/dembrandt](https://github.com/dembrandt/dembrandt) - Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.
+- [QuinnAho/claudemap](https://github.com/QuinnAho/claudemap) - google maps for vibecoders.
 - [inkeep/agents](https://github.com/inkeep/agents) - Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) - Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers
@@ -853,7 +869,7 @@
 
 ## nestjs 
 
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [bitloops/ddd-hexagonal-cqrs-es-eda](https://github.com/bitloops/ddd-hexagonal-cqrs-es-eda) - Complete working example of using Domain Driven Design (DDD), Hexagonal Architecture, CQRS, Event Sourcing (ES), Event Driven Architecture (EDA), Behaviour Driven Development (BDD) using TypeScript an
 
 ## nextjs 
@@ -880,6 +896,7 @@
 
 ## nodejs 
 
+- [dembrandt/dembrandt](https://github.com/dembrandt/dembrandt) - Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
 - [bitloops/ddd-hexagonal-cqrs-es-eda](https://github.com/bitloops/ddd-hexagonal-cqrs-es-eda) - Complete working example of using Domain Driven Design (DDD), Hexagonal Architecture, CQRS, Event Sourcing (ES), Event Driven Architecture (EDA), Behaviour Driven Development (BDD) using TypeScript an
 - [kaitranntt/ccs](https://github.com/kaitranntt/ccs) - Switch between Claude accounts, Gemini, Copilot, OpenRouter (300+ models) via CLIProxyAPI OAuth proxy. Visual dashboard, remote proxy support, WebSearch fallback. Zero-config to production-ready.
@@ -901,9 +918,11 @@
 
 ## open-source 
 
+- [dembrandt/dembrandt](https://github.com/dembrandt/dembrandt) - Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.
+- [QuinnAho/claudemap](https://github.com/QuinnAho/claudemap) - google maps for vibecoders.
 - [wanikua/become-ceo](https://github.com/wanikua/become-ceo) - Your AI executive team on Discord. 7 specialized agents — Engineering, Finance, Marketing, DevOps, Legal, Management, Chief of Staff. One-click setup on any free-tier server. Built on Clawdbot.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [webadderall/Recordly](https://github.com/webadderall/Recordly) - Create polished screen recordings for free. An open-source alternative to Screen Studio.
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
 - [frappe/hrms](https://github.com/frappe/hrms) - Open Source HR and Payroll Software
@@ -938,12 +957,16 @@
 
 ## others 
 
+- [paoloanzn/free-code](https://github.com/paoloanzn/free-code) - [NOTE] Parent repo is migrating ownership, until the operation is done this repo is blocked. The free build of Claude Code. All telemetry removed, security-prompt guardrails stripped, all experimental
+- [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
+- [techjarves/USB-Uncensored-LLM](https://github.com/techjarves/USB-Uncensored-LLM) - The ultimate zero-install, portable local AI environment. Run high-quality, uncensored LLMs (Gemma, Qwen, NemoMix) directly from any USB drive or SSD. Fully air-gapped, cross-platform (Win/Mac/Linux),
+- [assai-id/nemesis](https://github.com/assai-id/nemesis) - 
 - [elastic/supply-chain-monitor](https://github.com/elastic/supply-chain-monitor) - 
 - [ChristopherKahler/aegis](https://github.com/ChristopherKahler/aegis) - Multi-agent codebase audit for Claude Code — 12 specialized personas with epistemic discourse and bias removal for high-fidelity findings
 - [GreenSheep01201/claw-empire](https://github.com/GreenSheep01201/claw-empire) - Command Your AI Agent Empire from the CEO Desk — A local-first AI agent office simulator that orchestrates CLI, OAuth, and API-connected agents (Claude Code, Codex CLI, Gemini CLI, OpenCode, and more)
 - [nguyenvanduocit/research-kit](https://github.com/nguyenvanduocit/research-kit) - 💫 Toolkit to help you get started with Spec-Driven Research
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
-- [slavingia/skills](https://github.com/slavingia/skills) - Claude Code skills based on The Minimalist Entrepreneur by Sahil Lavingia
+- [slavingia/skills](https://github.com/slavingia/skills) - Based on The Minimalist Entrepreneur by Sahil Lavingia
 - [neurofoo/thoughts-to-realities](https://github.com/neurofoo/thoughts-to-realities) - 
 - [neurofoo/agent-skills-stoicism](https://github.com/neurofoo/agent-skills-stoicism) - Stoicism meets Agent Skills
 - [gnekt/My-Brain-Is-Full-Crew](https://github.com/gnekt/My-Brain-Is-Full-Crew) - Built by a PhD whose memory was failing, whose diet was a mess, and whose anxiety had its own agenda. Most second brain tools ignore the fact that your brain doesn't work in isolation: your body and y
@@ -1019,7 +1042,6 @@
 - [theNetworkChuck/docker-mcp-tutorial](https://github.com/theNetworkChuck/docker-mcp-tutorial) - Complete tutorial materials for building MCP servers with Docker - from NetworkChuck's video
 - [BeehiveInnovations/pal-mcp-server](https://github.com/BeehiveInnovations/pal-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
-- [vybestack/llxprt-code](https://github.com/vybestack/llxprt-code) - An open-source multi-provider AI assisted CLI development tool. Use whatever LLM you want to code in your terminal.
 - [flowcommerce/solidus](https://github.com/flowcommerce/solidus) - 
 
 ## p2p 
@@ -1042,7 +1064,7 @@
 
 ## postgresql 
 
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [SirChri/employee-shift-scheduler](https://github.com/SirChri/employee-shift-scheduler) - A simple employee shift scheduler, based on React, Java (SpringBoot) and PostgreSQL.
 
 ## powershell 
@@ -1057,6 +1079,7 @@
 
 ## productivity 
 
+- [dembrandt/dembrandt](https://github.com/dembrandt/dembrandt) - Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
@@ -1103,7 +1126,7 @@
 - [Dicklesworthstone/mindmap-generator](https://github.com/Dicklesworthstone/mindmap-generator) - Turn any input document into a sophisticated, context-dependent mindmap that distills the meaning and structure of the document.
 - [Dicklesworthstone/mcp_agent_mail](https://github.com/Dicklesworthstone/mcp_agent_mail) - Asynchronous coordination layer for AI coding agents: identities, inboxes, searchable threads, and advisory file leases over FastMCP + Git + SQLite
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos 
-- [iii-hq/iii](https://github.com/iii-hq/iii) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
+- [iii-hq/iii](https://github.com/iii-hq/iii) - iii unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
 
 ## python3 
@@ -1137,7 +1160,8 @@
 
 ## react 
 
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [QuinnAho/claudemap](https://github.com/QuinnAho/claudemap) - google maps for vibecoders.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [typicode/mistcss](https://github.com/typicode/mistcss) - Create visual components for React without JavaScript or TypeScript.  Leverage native HTML and CSS. It's an alternative to CSS-in-JS and CSS modules.
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 - [SirChri/employee-shift-scheduler](https://github.com/SirChri/employee-shift-scheduler) - A simple employee shift scheduler, based on React, Java (SpringBoot) and PostgreSQL.
@@ -1161,7 +1185,7 @@
 
 ## reactjs 
 
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol
 - [chrisvel/tududi](https://github.com/chrisvel/tududi) - A calm, open system for organizing life and work. Tasks, projects, notes, areas, and smart workflows - self-hosted or hosted.
 
@@ -1172,6 +1196,10 @@
 ## rest-api 
 
 - [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A curated list of free public APIs across 48 categories — searchable, community-maintained, with a free JSON API.
+
+## reverse-engineering 
+
+- [dembrandt/dembrandt](https://github.com/dembrandt/dembrandt) - Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.
 
 ## ruby 
 
@@ -1191,7 +1219,7 @@
 - [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python
 - [Dicklesworthstone/coding_agent_session_search](https://github.com/Dicklesworthstone/coding_agent_session_search) - Unified TUI and CLI to index and search your local coding agent session history across 11+ providers (Codex, Claude, Gemini, Cursor, Aider, etc.)
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-- [iii-hq/iii](https://github.com/iii-hq/iii) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
+- [iii-hq/iii](https://github.com/iii-hq/iii) - iii unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
 
 ## security 
 
@@ -1250,6 +1278,10 @@
 
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 
+## tailwind 
+
+- [Manavarya09/design-extract](https://github.com/Manavarya09/design-extract) - Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Comp
+
 ## tailwindcss 
 
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
@@ -1296,7 +1328,7 @@
 ## typescript 
 
 - [inkeep/agents](https://github.com/inkeep/agents) - Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [alumnium-hq/alumnium](https://github.com/alumnium-hq/alumnium) - End-to-end testing with AI
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
 - [bitloops/ddd-hexagonal-cqrs-es-eda](https://github.com/bitloops/ddd-hexagonal-cqrs-es-eda) - Complete working example of using Domain Driven Design (DDD), Hexagonal Architecture, CQRS, Event Sourcing (ES), Event Driven Architecture (EDA), Behaviour Driven Development (BDD) using TypeScript an
@@ -1308,7 +1340,7 @@
 - [gommzystudio/device-activity-tracker](https://github.com/gommzystudio/device-activity-tracker) - A phone number can reveal whether a device is active, in standby or offline (and more). This PoC demonstrates how delivery receipts + RTT timing leak sensitive device-activity patterns. (WhatsApp / Si
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
 - [rbbydotdev/someday](https://github.com/rbbydotdev/someday) - Free to host calendar availability picker - open-source cal.com / calendly alternative built on Google-Apps-Script for Gmail users. Built with modern technologies like React, TypeScript, Shadcn/UI, an
-- [iii-hq/iii](https://github.com/iii-hq/iii) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
+- [iii-hq/iii](https://github.com/iii-hq/iii) - iii unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
 - [403errors/repomind](https://github.com/403errors/repomind) - An open-source, AI-powered application using Agentic CAG to chat with any public GitHub repository or developer profile, offering deep code analysis, visual architecture maps and security audits
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
@@ -1346,7 +1378,7 @@
 
 ## web 
 
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
