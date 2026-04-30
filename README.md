@@ -272,6 +272,7 @@
 
 ## TypeScript 
 
+- [Hacker-Valley-Media/Interceptor](https://github.com/Hacker-Valley-Media/Interceptor) - Agent-driven Chrome extension for full browser control via CLI
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [newtype-01/newtype-os](https://github.com/newtype-01/newtype-os) - AI Agent Collaboration System for Content Creation
