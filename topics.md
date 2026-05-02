@@ -156,6 +156,7 @@
 - [swift](#swift)
 - [tailwind](#tailwind)
 - [tailwindcss](#tailwindcss)
+- [terminal](#terminal)
 - [termux](#termux)
 - [termux-hacking](#termux-hacking)
 - [termux-tool](#termux-tool)
@@ -192,6 +193,7 @@
 
 ## ai 
 
+- [1jehuang/jcode](https://github.com/1jehuang/jcode) - Coding Agent Harness
 - [Manavarya09/design-extract](https://github.com/Manavarya09/design-extract) - Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Comp
 - [wanikua/become-ceo](https://github.com/wanikua/become-ceo) - Your AI executive team on Discord. 7 specialized agents — Engineering, Finance, Marketing, DevOps, Legal, Management, Chief of Staff. One-click setup on any free-tier server. Built on Clawdbot.
 - [inkeep/agents](https://github.com/inkeep/agents) - Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.
@@ -370,6 +372,7 @@
 
 ## chatgpt 
 
+- [anc95/ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) - 🐥 A code review bot powered by ChatGPT
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
@@ -393,7 +396,7 @@
 - [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign) - Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MI
 - [QuinnAho/claudemap](https://github.com/QuinnAho/claudemap) - google maps for vibecoders.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
-- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or v
+- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
 - [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
@@ -419,6 +422,9 @@
 
 ## cli 
 
+- [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
+- [1jehuang/jcode](https://github.com/1jehuang/jcode) - Coding Agent Harness
+- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 - [Manavarya09/design-extract](https://github.com/Manavarya09/design-extract) - Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Comp
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
@@ -435,11 +441,13 @@
 
 ## code-quality 
 
+- [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [Dicklesworthstone/ultimate_bug_scanner](https://github.com/Dicklesworthstone/ultimate_bug_scanner) - Static analysis tool that catches 1000+ bug patterns across all popular programming languages, with auto-wiring into AI coding agent quality guardrails
 - [lintsinghua/DeepAudit](https://github.com/lintsinghua/DeepAudit) - DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源的代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ，一键生成报告。支持中转站。​让安全不再昂贵，让审计不再复杂。
 
 ## code-review 
 
+- [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [lintsinghua/DeepAudit](https://github.com/lintsinghua/DeepAudit) - DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源的代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ，一键生成报告。支持中转站。​让安全不再昂贵，让审计不再复杂。
 
 ## coding 
@@ -483,6 +491,7 @@
 
 ## cybersecurity 
 
+- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 - [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) - Useful tool to track location or mobile number
 
 ## dart 
@@ -664,6 +673,7 @@
 
 ## github 
 
+- [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos 
@@ -674,6 +684,7 @@
 
 ## go 
 
+- [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [strongdm/comply](https://github.com/strongdm/comply) - Compliance automation framework, focused on SOC2
 - [Dicklesworthstone/beads_viewer](https://github.com/Dicklesworthstone/beads_viewer) - Graph-aware TUI for the Beads issue tracker: PageRank, critical path, kanban, dependency DAG visualization, and robot-mode JSON API
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
@@ -792,6 +803,7 @@
 
 ## llm 
 
+- [1jehuang/jcode](https://github.com/1jehuang/jcode) - Coding Agent Harness
 - [Astro-Han/karpathy-llm-wiki](https://github.com/Astro-Han/karpathy-llm-wiki) - Agent Skills-compatible LLM wiki for Claude Code, Cursor, and Codex. Build a Karpathy-style knowledge base from raw sources, citations, and linting.
 - [FreePeak/LeanKG](https://github.com/FreePeak/LeanKG) - LeanKG: Stop Burning Tokens. Start Coding Lean.
 - [wanikua/become-ceo](https://github.com/wanikua/become-ceo) - Your AI executive team on Discord. 7 specialized agents — Engineering, Finance, Marketing, DevOps, Legal, Management, Chief of Staff. One-click setup on any free-tier server. Built on Clawdbot.
@@ -855,6 +867,7 @@
 
 ## mcp 
 
+- [1jehuang/jcode](https://github.com/1jehuang/jcode) - Coding Agent Harness
 - [FreePeak/LeanKG](https://github.com/FreePeak/LeanKG) - LeanKG: Stop Burning Tokens. Start Coding Lean.
 - [dembrandt/dembrandt](https://github.com/dembrandt/dembrandt) - Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.
 - [QuinnAho/claudemap](https://github.com/QuinnAho/claudemap) - google maps for vibecoders.
@@ -939,6 +952,7 @@
 
 ## open-source 
 
+- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [dembrandt/dembrandt](https://github.com/dembrandt/dembrandt) - Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.
 - [QuinnAho/claudemap](https://github.com/QuinnAho/claudemap) - google maps for vibecoders.
@@ -957,6 +971,7 @@
 
 ## openai 
 
+- [1jehuang/jcode](https://github.com/1jehuang/jcode) - Coding Agent Harness
 - [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign) - Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MI
 - [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - A list of free LLM inference resources accessible via API.
 - [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) - [GitHub Trending #2] A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
@@ -974,6 +989,7 @@
 
 ## osint 
 
+- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 - [calesthio/Crucix](https://github.com/calesthio/Crucix) - Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.
 - [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) - Useful tool to track location or mobile number
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
@@ -1081,6 +1097,7 @@
 
 ## pentesting 
 
+- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 - [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) - Useful tool to track location or mobile number
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before
 
@@ -1139,6 +1156,7 @@
 
 ## python 
 
+- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) - 245 Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — 653 Python tools, 32 agents, 26 slash commands
 - [alumnium-hq/alumnium](https://github.com/alumnium-hq/alumnium) - End-to-end testing with AI
@@ -1160,6 +1178,7 @@
 
 ## python3 
 
+- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos 
 
 ## quantitative-finance 
@@ -1168,6 +1187,7 @@
 
 ## rag 
 
+- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) - [GitHub Trending #2] A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
@@ -1243,6 +1263,7 @@
 
 ## rust 
 
+- [1jehuang/jcode](https://github.com/1jehuang/jcode) - Coding Agent Harness
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
@@ -1320,6 +1341,10 @@
 - [kurrier-org/kurrier](https://github.com/kurrier-org/kurrier) - Kurrier is a modern, self-hosted workspace for email, calendar, contacts and storage.
 - [aguiarsc/wireframe-ui](https://github.com/aguiarsc/wireframe-ui) - Skip Figma. Wireframe directly in your IDE with React components
 
+## terminal 
+
+- [1jehuang/jcode](https://github.com/1jehuang/jcode) - Coding Agent Harness
+
 ## termux 
 
 - [ExpertAnonymous/PhoneInfoga](https://github.com/ExpertAnonymous/PhoneInfoga) - PhoneInfoga is one of the most advanced tools to scan phone numbers using only free resources.
@@ -1346,6 +1371,7 @@
 
 ## tui 
 
+- [1jehuang/jcode](https://github.com/1jehuang/jcode) - Coding Agent Harness
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [Dicklesworthstone/coding_agent_session_search](https://github.com/Dicklesworthstone/coding_agent_session_search) - Unified TUI and CLI to index and search your local coding agent session history across 11+ providers (Codex, Claude, Gemini, Cursor, Aider, etc.)
 - [furkan/dockerlings](https://github.com/furkan/dockerlings) - learn docker in your terminal, with bite sized exercises
