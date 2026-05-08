@@ -175,6 +175,7 @@
 - [web](#web)
 - [web-development](#web-development)
 - [webapp](#webapp)
+- [webpack](#webpack)
 - [website](#website)
 - [windows](#windows)
 - [youtube](#youtube)
@@ -971,6 +972,7 @@
 
 ## open-source 
 
+- [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [dembrandt/dembrandt](https://github.com/dembrandt/dembrandt) - Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.
@@ -1045,7 +1047,7 @@
 - [sddiv/NLSpec-MCPServer_Old](https://github.com/sddiv/NLSpec-MCPServer_Old) - Generating NLSpec-Server from NLSpec using Claude Code
 - [samueljklee/attractor](https://github.com/samueljklee/attractor) - DOT-based pipeline runner for multi-stage AI workflows. Implements the StrongDM Attractor nlspec.
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
-- [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+- [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - [scarnecchia/attractor](https://github.com/scarnecchia/attractor) - nlspec of StrongDM's Attractor, a non-interactive Coding Agent sufficient for use in a Software Factory
 - [numman-ali/gastown-remote](https://github.com/numman-ali/gastown-remote) - Always-on AI agent orchestration in the cloud. Deploy Gas Town to a VPS, access from anywhere via Tailscale.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
@@ -1304,6 +1306,7 @@
 
 ## self-hosted 
 
+- [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 - [wanikua/become-ceo](https://github.com/wanikua/become-ceo) - Your AI executive team on Discord. 7 specialized agents — Engineering, Finance, Marketing, DevOps, Legal, Management, Chief of Staff. One-click setup on any free-tier server. Built on Clawdbot.
 - [inkeep/agents](https://github.com/inkeep/agents) - Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.
 - [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS.
@@ -1354,6 +1357,7 @@
 
 ## tailwindcss 
 
+- [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [joachimchauvet/modernstack-saas](https://github.com/joachimchauvet/modernstack-saas) - A modern SaaS template/boilerplate built with SvelteKit, Convex, Better Auth, and shadcn-svelte. Includes subscriptions, auth, user & admin dashboard, user settings, and more.
@@ -1449,6 +1453,7 @@
 
 ## vue 
 
+- [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
 - [abhinavxd/libredesk](https://github.com/abhinavxd/libredesk) - Open source, self-hosted omnichannel customer support desk. Live chat, email, and more in a single binary.
@@ -1469,6 +1474,10 @@
 
 - [SirChri/employee-shift-scheduler](https://github.com/SirChri/employee-shift-scheduler) - A simple employee shift scheduler, based on React, Java (SpringBoot) and PostgreSQL.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+
+## webpack 
+
+- [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 
 ## website 
 
