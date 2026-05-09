@@ -26,6 +26,7 @@
 - [Rust](#rust)
 - [Shell](#shell)
 - [Svelte](#svelte)
+- [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vue](#vue)
 
@@ -58,6 +59,7 @@
 
 ## Go 
 
+- [intothevoid/rss2podcast](https://github.com/intothevoid/rss2podcast) - Parse, summarise and convert rss feeds into an audio podcast
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
 - [superstreamlabs/memphis](https://github.com/superstreamlabs/memphis) - Memphis.dev is a highly scalable and effortless data streaming platform
@@ -162,6 +164,7 @@
 
 ## Python 
 
+- [anupriyomandal/news-agent](https://github.com/anupriyomandal/news-agent) - An RSS Feed Aggregator and Summariser
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
@@ -280,9 +283,12 @@
 
 - [joachimchauvet/modernstack-saas](https://github.com/joachimchauvet/modernstack-saas) - A modern SaaS template/boilerplate built with SvelteKit, Convex, Better Auth, and shadcn-svelte. Includes subscriptions, auth, user & admin dashboard, user settings, and more.
 
-## TypeScript 
+## Swift 
 
 - [Hacker-Valley-Media/Interceptor](https://github.com/Hacker-Valley-Media/Interceptor) - Agent-driven Chrome extension for full browser control via CLI
+
+## TypeScript 
+
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [newtype-01/newtype-os](https://github.com/newtype-01/newtype-os) - AI Agent Collaboration System for Content Creation
@@ -348,7 +354,7 @@
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [aguiarsc/wireframe-ui](https://github.com/aguiarsc/wireframe-ui) - Skip Figma. Wireframe directly in your IDE with React components
-- [aidenybai/react-grab](https://github.com/aidenybai/react-grab) - Select context for coding agents directly from your website
+- [aidenybai/react-grab](https://github.com/aidenybai/react-grab) - Copy any UI element for your agent
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 - [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
 - [Mina-Massoud/Mina-Rich-Editor](https://github.com/Mina-Massoud/Mina-Rich-Editor) - 
