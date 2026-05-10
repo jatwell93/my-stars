@@ -1019,6 +1019,9 @@
 
 ## others 
 
+- [fendouai/CodexSaver](https://github.com/fendouai/CodexSaver) - Make Codex cheaper without making it dumber with DeepSeek.
+- [ps5-linux/ps5-linux-loader](https://github.com/ps5-linux/ps5-linux-loader) - Linux payload implementing the HV exploit and a custom bootloader
+- [antirez/ds4](https://github.com/antirez/ds4) - DeepSeek 4 Flash local inference engine for Metal
 - [anupriyomandal/news-agent](https://github.com/anupriyomandal/news-agent) - An RSS Feed Aggregator and Summariser
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
 - [newtype-01/newtype-os](https://github.com/newtype-01/newtype-os) - AI Agent Collaboration System for Content Creation
