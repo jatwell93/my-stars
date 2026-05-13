@@ -22,6 +22,7 @@
 - [bash](#bash)
 - [beginner-project](#beginner-project)
 - [blockchain](#blockchain)
+- [c](#c)
 - [c-sharp](#c-sharp)
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
@@ -100,6 +101,7 @@
 - [linux](#linux)
 - [llm](#llm)
 - [low-code](#low-code)
+- [lua](#lua)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
@@ -387,6 +389,10 @@
 
 - [OffcierCia/Crypto-OpSec-SelfGuard-RoadMap](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap) - Here we collect and discuss the best DeFi, Blockchain and crypto-related OpSec researches and data terminals - contributions are welcome.
 
+## c 
+
+- [ad-si/Coding-Flashcards](https://github.com/ad-si/Coding-Flashcards) - Over 1000 flashcards to learn Rust, SQLite, Lua, C, Godot, or Wolfram Language from first principles. Written in markdown with script to convert them to Anki decks or PDF files.
+
 ## c-sharp 
 
 - [QuantConnect/Lean](https://github.com/QuantConnect/Lean) - Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
@@ -628,7 +634,7 @@
 
 ## education 
 
-- [ad-si/Coding-Flashcards](https://github.com/ad-si/Coding-Flashcards) - Over 800 flashcards to learn Rust, SQLite, Godot, or Wolfram Language from first principles. Written in markdown with script to convert them to Anki decks or PDF files.
+- [ad-si/Coding-Flashcards](https://github.com/ad-si/Coding-Flashcards) - Over 1000 flashcards to learn Rust, SQLite, Lua, C, Godot, or Wolfram Language from first principles. Written in markdown with script to convert them to Anki decks or PDF files.
 - [HugeCatLab/ChatTutor](https://github.com/HugeCatLab/ChatTutor) - 👨‍🏫 ChatTutor: Visual and Interactive AI Tutor
 
 ## electron 
@@ -727,7 +733,7 @@
 
 ## godot 
 
-- [ad-si/Coding-Flashcards](https://github.com/ad-si/Coding-Flashcards) - Over 800 flashcards to learn Rust, SQLite, Godot, or Wolfram Language from first principles. Written in markdown with script to convert them to Anki decks or PDF files.
+- [ad-si/Coding-Flashcards](https://github.com/ad-si/Coding-Flashcards) - Over 1000 flashcards to learn Rust, SQLite, Lua, C, Godot, or Wolfram Language from first principles. Written in markdown with script to convert them to Anki decks or PDF files.
 
 ## golang 
 
@@ -835,7 +841,7 @@
 
 ## learning 
 
-- [ad-si/Coding-Flashcards](https://github.com/ad-si/Coding-Flashcards) - Over 800 flashcards to learn Rust, SQLite, Godot, or Wolfram Language from first principles. Written in markdown with script to convert them to Anki decks or PDF files.
+- [ad-si/Coding-Flashcards](https://github.com/ad-si/Coding-Flashcards) - Over 1000 flashcards to learn Rust, SQLite, Lua, C, Godot, or Wolfram Language from first principles. Written in markdown with script to convert them to Anki decks or PDF files.
 - [fpsvogel/learn-ruby](https://github.com/fpsvogel/learn-ruby) - Learning resources for Ruby, Rails, and related skills.
 - [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
 
@@ -885,6 +891,10 @@
 
 - [inkeep/agents](https://github.com/inkeep/agents) - Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
+
+## lua 
+
+- [ad-si/Coding-Flashcards](https://github.com/ad-si/Coding-Flashcards) - Over 1000 flashcards to learn Rust, SQLite, Lua, C, Godot, or Wolfram Language from first principles. Written in markdown with script to convert them to Anki decks or PDF files.
 
 ## machine-learning 
 
@@ -1044,7 +1054,7 @@
 
 - [fendouai/CodexSaver](https://github.com/fendouai/CodexSaver) - Make Codex cheaper without making it dumber with DeepSeek.
 - [ps5-linux/ps5-linux-loader](https://github.com/ps5-linux/ps5-linux-loader) - Linux payload implementing the HV exploit and a custom bootloader
-- [antirez/ds4](https://github.com/antirez/ds4) - DeepSeek 4 Flash local inference engine for Metal
+- [antirez/ds4](https://github.com/antirez/ds4) - DeepSeek 4 Flash local inference engine for Metal and CUDA
 - [anupriyomandal/news-agent](https://github.com/anupriyomandal/news-agent) - An RSS Feed Aggregator and Summariser
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
 - [newtype-01/newtype-os](https://github.com/newtype-01/newtype-os) - AI Agent Collaboration System for Content Creation
@@ -1316,7 +1326,7 @@
 
 ## rust 
 
-- [ad-si/Coding-Flashcards](https://github.com/ad-si/Coding-Flashcards) - Over 800 flashcards to learn Rust, SQLite, Godot, or Wolfram Language from first principles. Written in markdown with script to convert them to Anki decks or PDF files.
+- [ad-si/Coding-Flashcards](https://github.com/ad-si/Coding-Flashcards) - Over 1000 flashcards to learn Rust, SQLite, Lua, C, Godot, or Wolfram Language from first principles. Written in markdown with script to convert them to Anki decks or PDF files.
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - Coding Agent Harness
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
@@ -1374,7 +1384,7 @@
 
 ## sqlite 
 
-- [ad-si/Coding-Flashcards](https://github.com/ad-si/Coding-Flashcards) - Over 800 flashcards to learn Rust, SQLite, Godot, or Wolfram Language from first principles. Written in markdown with script to convert them to Anki decks or PDF files.
+- [ad-si/Coding-Flashcards](https://github.com/ad-si/Coding-Flashcards) - Over 1000 flashcards to learn Rust, SQLite, Lua, C, Godot, or Wolfram Language from first principles. Written in markdown with script to convert them to Anki decks or PDF files.
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 
 ## stable-diffusion 
