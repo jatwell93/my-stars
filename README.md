@@ -34,7 +34,7 @@
 ## C 
 
 - [ps5-linux/ps5-linux-loader](https://github.com/ps5-linux/ps5-linux-loader) - Linux payload implementing the HV exploit and a custom bootloader
-- [antirez/ds4](https://github.com/antirez/ds4) - DeepSeek 4 Flash local inference engine for Metal
+- [antirez/ds4](https://github.com/antirez/ds4) - DeepSeek 4 Flash local inference engine for Metal and CUDA
 
 ## C# # 
 
@@ -256,7 +256,7 @@
 
 ## Rust 
 
-- [ad-si/Coding-Flashcards](https://github.com/ad-si/Coding-Flashcards) - Over 800 flashcards to learn Rust, SQLite, Godot, or Wolfram Language from first principles. Written in markdown with script to convert them to Anki decks or PDF files.
+- [ad-si/Coding-Flashcards](https://github.com/ad-si/Coding-Flashcards) - Over 1000 flashcards to learn Rust, SQLite, Lua, C, Godot, or Wolfram Language from first principles. Written in markdown with script to convert them to Anki decks or PDF files.
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - Coding Agent Harness
 - [FreePeak/LeanKG](https://github.com/FreePeak/LeanKG) - LeanKG: Stop Burning Tokens. Start Coding Lean.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
