@@ -331,6 +331,7 @@
 
 ## automation 
 
+- [jeffsleft/synapse-agent](https://github.com/jeffsleft/synapse-agent) - URL-to-Notion learnings synthesis pipeline. Modal Python function using Jina Reader + Gemini Flash to convert any article, podcast, or thread into structured strategic notes.
 - [wanikua/become-ceo](https://github.com/wanikua/become-ceo) - Your AI executive team on Discord. 7 specialized agents — Engineering, Finance, Marketing, DevOps, Legal, Management, Chief of Staff. One-click setup on any free-tier server. Built on Clawdbot.
 - [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
@@ -567,6 +568,7 @@
 
 ## deep-learning 
 
+- [amitness/learning](https://github.com/amitness/learning) - A log of things I'm learning
 - [MrSibe/KnowNote](https://github.com/MrSibe/KnowNote) - A local-first AI knowledge base & NotebookLM alternative built with Electron. More convenient, more lightweight, and understands you better!
 
 ## deployment 
@@ -703,6 +705,7 @@
 
 ## generative-ai 
 
+- [amitness/learning](https://github.com/amitness/learning) - A log of things I'm learning
 - [RunMaestro/Maestro](https://github.com/RunMaestro/Maestro) - Agent Orchestration Command Center
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
 - [zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI) - Force Remove Copilot, Recall and More in Windows 11
@@ -857,6 +860,7 @@
 
 ## llm 
 
+- [jeffsleft/synapse-agent](https://github.com/jeffsleft/synapse-agent) - URL-to-Notion learnings synthesis pipeline. Modal Python function using Jina Reader + Gemini Flash to convert any article, podcast, or thread into structured strategic notes.
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - Coding Agent Harness
 - [Astro-Han/karpathy-llm-wiki](https://github.com/Astro-Han/karpathy-llm-wiki) - Agent Skills-compatible LLM wiki for Claude Code, Cursor, and Codex. Build a Karpathy-style knowledge base from raw sources, citations, and linting.
 - [FreePeak/LeanKG](https://github.com/FreePeak/LeanKG) - LeanKG: Stop Burning Tokens. Start Coding Lean.
@@ -901,6 +905,7 @@
 
 ## machine-learning 
 
+- [amitness/learning](https://github.com/amitness/learning) - A log of things I'm learning
 - [kohjingyu/search-agents](https://github.com/kohjingyu/search-agents) - Code for the paper 🌳 Tree Search for Language Model Agents
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
@@ -975,6 +980,7 @@
 
 ## nlp 
 
+- [amitness/learning](https://github.com/amitness/learning) - A log of things I'm learning
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 
 ## no-code 
@@ -1055,6 +1061,8 @@
 
 ## others 
 
+- [juliettech13/queryable-yc-library](https://github.com/juliettech13/queryable-yc-library) - Transcribed and reformatted every article, video and podcast created by YCombinator as a knowledge base to query by any AI or human
+- [CopyPasteFail/articles-rss-to-podcast](https://github.com/CopyPasteFail/articles-rss-to-podcast) - Turns article RSS feeds into podcast feeds: generates TTS audio, uploads episodes, writes RSS, and deploys the output.
 - [skyllwt/OmegaWiki](https://github.com/skyllwt/OmegaWiki) - Karpathy's LLM-Wiki vision, fully realized — wiki-centric full-lifecycle AI research platform powered by Claude Code
 - [fendouai/CodexSaver](https://github.com/fendouai/CodexSaver) - Make Codex cheaper without making it dumber with DeepSeek.
 - [ps5-linux/ps5-linux-loader](https://github.com/ps5-linux/ps5-linux-loader) - Linux payload implementing the HV exploit and a custom bootloader
@@ -1220,6 +1228,8 @@
 
 ## python 
 
+- [amitness/learning](https://github.com/amitness/learning) - A log of things I'm learning
+- [jeffsleft/synapse-agent](https://github.com/jeffsleft/synapse-agent) - URL-to-Notion learnings synthesis pipeline. Modal Python function using Jina Reader + Gemini Flash to convert any article, podcast, or thread into structured strategic notes.
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) - 266 AI skills & agent plugins across 17 domains — engineering, marketing, C-level, compliance, vertical advisors (fintech, healthtech, edtech, ecommerce, proptech, climate-tech, marketplace) — for Cla
