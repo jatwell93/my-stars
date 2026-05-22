@@ -276,7 +276,7 @@
 - [wanikua/become-ceo](https://github.com/wanikua/become-ceo) - Your AI executive team on Discord. 7 specialized agents — Engineering, Finance, Marketing, DevOps, Legal, Management, Chief of Staff. One-click setup on any free-tier server. Built on Clawdbot.
 - [inkeep/agents](https://github.com/inkeep/agents) - Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
-- [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) - 266 AI skills & agent plugins across 17 domains — engineering, marketing, C-level, compliance, vertical advisors (fintech, healthtech, edtech, ecommerce, proptech, climate-tech, marketplace) — for Cla
+- [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) - 282 AI skills across 15 domains — the most complete PM operating system (discovery → delivery → career, with Jira / Linear / Notion / Confluence), plus engineering, marketing, C-level, compliance, and
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [deanpeters/Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills) - Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents.
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
@@ -436,7 +436,7 @@
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
 - [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-- [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) - 266 AI skills & agent plugins across 17 domains — engineering, marketing, C-level, compliance, vertical advisors (fintech, healthtech, edtech, ecommerce, proptech, climate-tech, marketplace) — for Cla
+- [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) - 282 AI skills across 15 domains — the most complete PM operating system (discovery → delivery → career, with Jira / Linear / Notion / Confluence), plus engineering, marketing, C-level, compliance, and
 - [open-gitagent/gitagent-protocol](https://github.com/open-gitagent/gitagent-protocol) - A framework-agnostic, git-native standard for defining AI agents
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
@@ -586,7 +586,7 @@
 - [regent-vcs/re_gent](https://github.com/regent-vcs/re_gent) - Version-Control for AI coding agents.
 - [QuinnAho/claudemap](https://github.com/QuinnAho/claudemap) - google maps for vibecoders.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
-- [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) - 266 AI skills & agent plugins across 17 domains — engineering, marketing, C-level, compliance, vertical advisors (fintech, healthtech, edtech, ecommerce, proptech, climate-tech, marketplace) — for Cla
+- [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) - 282 AI skills across 15 domains — the most complete PM operating system (discovery → delivery → career, with Jira / Linear / Notion / Confluence), plus engineering, marketing, C-level, compliance, and
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A curated list of free public APIs across 48 categories — searchable, community-maintained, with a free JSON API.
 - [m0n0x41d/haft](https://github.com/m0n0x41d/haft) - Engineering decisions  engine that know when they're stale. Frame, compare, decide — with evidence decay and parity enforcement. For Claude Code, Cursor, Gemini CLI, Codex and more.
@@ -866,7 +866,7 @@
 - [FreePeak/LeanKG](https://github.com/FreePeak/LeanKG) - LeanKG: Stop Burning Tokens. Start Coding Lean.
 - [wanikua/become-ceo](https://github.com/wanikua/become-ceo) - Your AI executive team on Discord. 7 specialized agents — Engineering, Finance, Marketing, DevOps, Legal, Management, Chief of Staff. One-click setup on any free-tier server. Built on Clawdbot.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
-- [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) - 266 AI skills & agent plugins across 17 domains — engineering, marketing, C-level, compliance, vertical advisors (fintech, healthtech, edtech, ecommerce, proptech, climate-tech, marketplace) — for Cla
+- [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) - 282 AI skills across 15 domains — the most complete PM operating system (discovery → delivery → career, with Jira / Linear / Notion / Confluence), plus engineering, marketing, C-level, compliance, and
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [alumnium-hq/alumnium](https://github.com/alumnium-hq/alumnium) - End-to-end testing with AI
@@ -1213,12 +1213,12 @@
 
 ## project-management 
 
+- [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) - 282 AI skills across 15 domains — the most complete PM operating system (discovery → delivery → career, with Jira / Linear / Notion / Confluence), plus engineering, marketing, C-level, compliance, and
 - [JordanCoin/codemap](https://github.com/JordanCoin/codemap) - a project brain for your AI. Give LLMs instant architectural context without burning tokens
 - [chrisvel/tududi](https://github.com/chrisvel/tududi) - A calm, open system for organizing life and work. Tasks, projects, notes, areas, and smart workflows - self-hosted or hosted.
 
 ## prompt-engineering 
 
-- [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) - 266 AI skills & agent plugins across 17 domains — engineering, marketing, C-level, compliance, vertical advisors (fintech, healthtech, edtech, ecommerce, proptech, climate-tech, marketplace) — for Cla
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [m0n0x41d/haft](https://github.com/m0n0x41d/haft) - Engineering decisions  engine that know when they're stale. Frame, compare, decide — with evidence decay and parity enforcement. For Claude Code, Cursor, Gemini CLI, Codex and more.
@@ -1233,7 +1233,6 @@
 - [jeffsleft/synapse-agent](https://github.com/jeffsleft/synapse-agent) - URL-to-Notion learnings synthesis pipeline. Modal Python function using Jina Reader + Gemini Flash to convert any article, podcast, or thread into structured strategic notes.
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
-- [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) - 266 AI skills & agent plugins across 17 domains — engineering, marketing, C-level, compliance, vertical advisors (fintech, healthtech, edtech, ecommerce, proptech, climate-tech, marketplace) — for Cla
 - [alumnium-hq/alumnium](https://github.com/alumnium-hq/alumnium) - End-to-end testing with AI
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
 - [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) - Useful tool to track location or mobile number
