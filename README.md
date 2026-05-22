@@ -90,7 +90,7 @@
 
 - [techjarves/USB-Uncensored-LLM](https://github.com/techjarves/USB-Uncensored-LLM) - The ultimate zero-install, portable local AI environment. Run high-quality, uncensored LLMs (Gemma, Qwen, NemoMix) directly from any USB drive or SSD. Fully air-gapped, cross-platform (Win/Mac/Linux),
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
-- [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) - 266 AI skills & agent plugins across 17 domains — engineering, marketing, C-level, compliance, vertical advisors (fintech, healthtech, edtech, ecommerce, proptech, climate-tech, marketplace) — for Cla
+- [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) - 282 AI skills across 15 domains — the most complete PM operating system (discovery → delivery → career, with Jira / Linear / Notion / Confluence), plus engineering, marketing, C-level, compliance, and
 - [ClaytonFarr/ralph-playbook](https://github.com/ClaytonFarr/ralph-playbook) - A comprehensive guide to running autonomous AI coding loops using Geoff Huntley's Ralph methodology. View as formatted guide below 👇
 - [Arcanum-Sec/sec-context](https://github.com/Arcanum-Sec/sec-context) - AI Code Security Anti-Patterns distilled from 150+ sources to help LLMs generate safer code.
 - [coderamp-labs/gitrules](https://github.com/coderamp-labs/gitrules) - Context files in no time for your github repo
