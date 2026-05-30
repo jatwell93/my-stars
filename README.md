@@ -140,6 +140,7 @@
 
 ## Others 
 
+- [codescene-oss/pr-refactoring-agent](https://github.com/codescene-oss/pr-refactoring-agent) - This agent lets reviewers trigger guided refactoring and code-health workflows from a pull request comment.
 - [amitness/learning](https://github.com/amitness/learning) - A log of things I'm learning
 - [juliettech13/queryable-yc-library](https://github.com/juliettech13/queryable-yc-library) - Transcribed and reformatted every article, video and podcast created by YCombinator as a knowledge base to query by any AI or human
 - [Astro-Han/karpathy-llm-wiki](https://github.com/Astro-Han/karpathy-llm-wiki) - Agent Skills-compatible LLM wiki for Claude Code, Cursor, and Codex. Build a Karpathy-style knowledge base from raw sources, citations, and linting.
