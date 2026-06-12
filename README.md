@@ -105,6 +105,7 @@
 
 ## JavaScript 
 
+- [rizukirr/vibekit](https://github.com/rizukirr/vibekit) - Vibe-coding pipeline with halt-on-defect guardrails. RTCO-compressed briefs, evidence-based verification, bounded autonomous re-runs. CC / Pi / Codex / OpenCode / Gemini CLI.
 - [Doorman11991/smallcode](https://github.com/Doorman11991/smallcode) - AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.
 - [sdi2200262/agentic-project-management](https://github.com/sdi2200262/agentic-project-management) - A framework for managing complex projects with spec-driven multi-agent workflows.
 - [vizzuhq/vizzu-lib](https://github.com/vizzuhq/vizzu-lib) - Library for animated data visualizations and data stories.
@@ -303,6 +304,7 @@
 
 ## Shell 
 
+- [rizukirr/no-vibe](https://github.com/rizukirr/no-vibe) - Turn your AI assistant into a tutor. It plans, shows code, reviews, adapts to how you learn and helps you complete your real project on your own
 - [orailnoor/DroidDesk](https://github.com/orailnoor/DroidDesk) - DroidDesk turns your Android phone into a real Linux desktop using Termux, Termux X11, TUR, and Proot. Run VS Code, Firefox, LibreOffice, Blender, and more with X11 or VNC support for monitor setup.
 - [edengilbertus/terminalphone](https://github.com/edengilbertus/terminalphone) - 
 - [ChristopherKahler/aegis](https://github.com/ChristopherKahler/aegis) - Multi-agent codebase audit for Claude Code — 12 specialized personas with epistemic discourse and bias removal for high-fidelity findings
@@ -326,6 +328,7 @@
 
 ## TypeScript 
 
+- [code-yeongyu/lazycodex](https://github.com/code-yeongyu/lazycodex) - The one and only agent harness for complex codebases. Project memory, planning, execution, and verified completion inside Codex.
 - [OpenHealthForAll/open-health](https://github.com/OpenHealthForAll/open-health) - OpenHealth, AI Health Assistant | Powered by Your Data
 - [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim) - Slimmed, cleaned and fine-tuned oh-my-opencode fork, consumes much less tokens
 - [microsoft/AI-Engineering-Coach](https://github.com/microsoft/AI-Engineering-Coach) - better agentic engineering
