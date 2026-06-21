@@ -27,7 +27,6 @@
 - [Rust](#rust)
 - [Shell](#shell)
 - [Svelte](#svelte)
-- [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vue](#vue)
 
@@ -188,6 +187,7 @@
 
 ## Python 
 
+- [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 - [ViperJuice/pmcp](https://github.com/ViperJuice/pmcp) - MCP Gateway - A meta-server for minimal Claude Code tool bloat with progressive disclosure
 - [alex-feel/claude-code-toolbox](https://github.com/alex-feel/claude-code-toolbox) - Claude Code Toolbox — automated installers and environment configuration framework for Claude Code with one-line setup across Windows, macOS, and Linux.
 - [noob-hackers/ipdrone](https://github.com/noob-hackers/ipdrone) - Track Location With Live Address And Accuracy In Termux
@@ -330,10 +330,6 @@
 
 - [joachimchauvet/modernstack-saas](https://github.com/joachimchauvet/modernstack-saas) - A modern SaaS template/boilerplate built with SvelteKit, Convex, Better Auth, and shadcn-svelte. Includes subscriptions, auth, user & admin dashboard, user settings, and more.
 
-## Swift 
-
-- [Hacker-Valley-Media/Interceptor](https://github.com/Hacker-Valley-Media/Interceptor) - Agent-driven Chrome extension for full browser control via CLI
-
 ## TypeScript 
 
 - [snarktank/antfarm](https://github.com/snarktank/antfarm) - Build your agent team in OpenClaw with one command.
@@ -343,6 +339,7 @@
 - [microsoft/AI-Engineering-Coach](https://github.com/microsoft/AI-Engineering-Coach) - better agentic engineering
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
+- [Hacker-Valley-Media/Interceptor](https://github.com/Hacker-Valley-Media/Interceptor) - Agent-driven Chrome extension for full browser control via CLI
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [newtype-01/newtype-os](https://github.com/newtype-01/newtype-os) - AI Agent Collaboration System for Content Creation
@@ -391,7 +388,7 @@
 - [openlaunch-org/Open-Launch](https://github.com/openlaunch-org/Open-Launch) - The first complete open source alternative to Product Hunt.
 - [itshover/itshover](https://github.com/itshover/itshover) - Icons that move with intent
 - [MrSibe/KnowNote](https://github.com/MrSibe/KnowNote) - A local-first AI knowledge base & NotebookLM alternative built with Electron. More convenient, more lightweight, and understands you better!
-- [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) - Agentic AI Infrastructure for magnifying HUMAN capabilities.
+- [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - Agentic AI Infrastructure for magnifying HUMAN capabilities.
 - [siinghd/yourinfo](https://github.com/siinghd/yourinfo) - Real-time browser fingerprinting demo with cross-browser tracking, behavioral analysis, Grok AI profiling, and interactive 3D globe visualization
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
 - [RamiAwar/dataline](https://github.com/RamiAwar/dataline) - Chat with your data - AI data analysis and visualization on CSV, Postgres, MySQL, Snowflake, SQLite...
