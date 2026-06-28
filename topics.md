@@ -6,6 +6,7 @@
 ## Contents
 
 - [agent](#agent)
+- [agent-skills](#agent-skills)
 - [agents](#agents)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
@@ -89,6 +90,7 @@
 - [hacking-tool](#hacking-tool)
 - [hacktoberfest](#hacktoberfest)
 - [home-assistant](#home-assistant)
+- [homebrew](#homebrew)
 - [html](#html)
 - [html5](#html5)
 - [information-gathering](#information-gathering)
@@ -157,6 +159,7 @@
 - [security](#security)
 - [security-tools](#security-tools)
 - [self-hosted](#self-hosted)
+- [server](#server)
 - [serverless](#serverless)
 - [software](#software)
 - [spring-boot](#spring-boot)
@@ -207,6 +210,14 @@
 - [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 - [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
 
+## agent-skills 
+
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+- [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
+- [open-gitagent/opengap](https://github.com/open-gitagent/opengap) - A framework-agnostic, git-native standard for defining AI agents
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
+- [topoteretes/cognee](https://github.com/topoteretes/cognee) - Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.
+
 ## agents 
 
 - [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai) - Curated list of the best truly open-source AI projects, models, tools, and infrastructure. Daily updated.
@@ -230,6 +241,7 @@
 
 ## ai 
 
+- [mock-server/mockserver-monorepo](https://github.com/mock-server/mockserver-monorepo) - MockServer is an HTTP(S) mock server and proxy for testing that lets you mock APIs, inspect and modify live traffic, and inject failures. It supports HTTP/1.1, HTTP/2, gRPC, WebSockets, TCP and more o
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 - [code-yeongyu/lazycodex](https://github.com/code-yeongyu/lazycodex) - The one and only agent harness for complex codebases. Project memory, planning, execution, and verified completion inside Codex.
 - [OpenHealthForAll/open-health](https://github.com/OpenHealthForAll/open-health) - OpenHealth, AI Health Assistant | Powered by Your Data
@@ -289,6 +301,8 @@
 
 ## ai-agents 
 
+- [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, i
+- [SethGammon/Citadel](https://github.com/SethGammon/Citadel) - The operating layer for Claude Code + OpenAI Codex: persistent project memory, intent routing, safety hooks, cost telemetry, and parallel agent fleets.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [code-yeongyu/lazycodex](https://github.com/code-yeongyu/lazycodex) - The one and only agent harness for complex codebases. Project memory, planning, execution, and verified completion inside Codex.
 - [rizukirr/no-vibe](https://github.com/rizukirr/no-vibe) - Turn your AI assistant into a tutor. It plans, shows code, reviews, adapts to how you learn and helps you complete your real project on your own
@@ -345,6 +359,7 @@
 
 ## api 
 
+- [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A curated list of free public APIs across 48 categories — searchable, community-maintained, with a free JSON API.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -628,6 +643,7 @@
 
 ## developer-tools 
 
+- [SethGammon/Citadel](https://github.com/SethGammon/Citadel) - The operating layer for Claude Code + OpenAI Codex: persistent project memory, intent routing, safety hooks, cost telemetry, and parallel agent fleets.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [code-yeongyu/lazycodex](https://github.com/code-yeongyu/lazycodex) - The one and only agent harness for complex codebases. Project memory, planning, execution, and verified completion inside Codex.
 - [regent-vcs/re_gent](https://github.com/regent-vcs/re_gent) - Version-Control for AI coding agents.
@@ -690,6 +706,7 @@
 
 ## electron 
 
+- [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 - [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign) - Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MI
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [MrSibe/KnowNote](https://github.com/MrSibe/KnowNote) - A local-first AI knowledge base & NotebookLM alternative built with Electron. More convenient, more lightweight, and understands you better!
@@ -838,6 +855,10 @@
 
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 
+## homebrew 
+
+- [mock-server/mockserver-monorepo](https://github.com/mock-server/mockserver-monorepo) - MockServer is an HTTP(S) mock server and proxy for testing that lets you mock APIs, inspect and modify live traffic, and inject failures. It supports HTTP/1.1, HTTP/2, gRPC, WebSockets, TCP and more o
+
 ## html 
 
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
@@ -924,6 +945,7 @@
 
 ## llm 
 
+- [mock-server/mockserver-monorepo](https://github.com/mock-server/mockserver-monorepo) - MockServer is an HTTP(S) mock server and proxy for testing that lets you mock APIs, inspect and modify live traffic, and inject failures. It supports HTTP/1.1, HTTP/2, gRPC, WebSockets, TCP and more o
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [rizukirr/no-vibe](https://github.com/rizukirr/no-vibe) - Turn your AI assistant into a tutor. It plans, shows code, reviews, adapts to how you learn and helps you complete your real project on your own
@@ -1005,6 +1027,8 @@
 
 ## mcp 
 
+- [mock-server/mockserver-monorepo](https://github.com/mock-server/mockserver-monorepo) - MockServer is an HTTP(S) mock server and proxy for testing that lets you mock APIs, inspect and modify live traffic, and inject failures. It supports HTTP/1.1, HTTP/2, gRPC, WebSockets, TCP and more o
+- [SethGammon/Citadel](https://github.com/SethGammon/Citadel) - The operating layer for Claude Code + OpenAI Codex: persistent project memory, intent routing, safety hooks, cost telemetry, and parallel agent fleets.
 - [every-app/open-seo](https://github.com/every-app/open-seo) - Open source alternative to Semrush and Ahrefs
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
@@ -1158,7 +1182,6 @@
 - [SaladDay/cc-switch-cli](https://github.com/SaladDay/cc-switch-cli) - ⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
 - [LiorStrugach/CCGears](https://github.com/LiorStrugach/CCGears) - .claude folders manager, allowing you to switch to different .claude folders in the same or different projects - enabling you to have multiple presets of enabled skills, MCP's and tools dynamically  0
 - [exploitx3/livedemo-deploy](https://github.com/exploitx3/livedemo-deploy) - LiveDemo scripts for deployment and running local
-- [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
 - [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim) - Slimmed, cleaned and fine-tuned oh-my-opencode fork, consumes much less tokens
 - [codescene-oss/pr-refactoring-agent](https://github.com/codescene-oss/pr-refactoring-agent) - This agent lets reviewers trigger guided refactoring and code-health workflows from a pull request comment.
 - [Doorman11991/smallcode](https://github.com/Doorman11991/smallcode) - AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.
@@ -1337,6 +1360,7 @@
 
 ## python 
 
+- [mock-server/mockserver-monorepo](https://github.com/mock-server/mockserver-monorepo) - MockServer is an HTTP(S) mock server and proxy for testing that lets you mock APIs, inspect and modify live traffic, and inject failures. It supports HTTP/1.1, HTTP/2, gRPC, WebSockets, TCP and more o
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 - [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm) - Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
@@ -1444,6 +1468,7 @@
 
 ## rest-api 
 
+- [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 - [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A curated list of free public APIs across 48 categories — searchable, community-maintained, with a free JSON API.
 
 ## reverse-engineering 
@@ -1508,6 +1533,10 @@
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [abhinavxd/libredesk](https://github.com/abhinavxd/libredesk) - Open source, self-hosted omnichannel customer support desk. Live chat, email, and more in a single binary.
+
+## server 
+
+- [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 
 ## serverless 
 
@@ -1577,6 +1606,7 @@
 
 ## testing 
 
+- [mock-server/mockserver-monorepo](https://github.com/mock-server/mockserver-monorepo) - MockServer is an HTTP(S) mock server and proxy for testing that lets you mock APIs, inspect and modify live traffic, and inject failures. It supports HTTP/1.1, HTTP/2, gRPC, WebSockets, TCP and more o
 - [alumnium-hq/alumnium](https://github.com/alumnium-hq/alumnium) - End-to-end testing with AI
 - [vitalets/playwright-bdd](https://github.com/vitalets/playwright-bdd) - BDD testing with Playwright runner
 
