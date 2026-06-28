@@ -101,11 +101,13 @@
 
 ## Java 
 
+- [mock-server/mockserver-monorepo](https://github.com/mock-server/mockserver-monorepo) - MockServer is an HTTP(S) mock server and proxy for testing that lets you mock APIs, inspect and modify live traffic, and inject failures. It supports HTTP/1.1, HTTP/2, gRPC, WebSockets, TCP and more o
 - [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources.
 - [SirChri/employee-shift-scheduler](https://github.com/SirChri/employee-shift-scheduler) - A simple employee shift scheduler, based on React, Java (SpringBoot) and PostgreSQL.
 
 ## JavaScript 
 
+- [SethGammon/Citadel](https://github.com/SethGammon/Citadel) - The operating layer for Claude Code + OpenAI Codex: persistent project memory, intent routing, safety hooks, cost telemetry, and parallel agent fleets.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [rizukirr/vibekit](https://github.com/rizukirr/vibekit) - Vibe-coding pipeline with halt-on-defect guardrails. RTCO-compressed briefs, evidence-based verification, bounded autonomous re-runs. CC / Pi / Codex / OpenCode / Gemini CLI.
 - [Doorman11991/smallcode](https://github.com/Doorman11991/smallcode) - AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.
@@ -186,6 +188,7 @@
 
 ## Python 
 
+- [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, i
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 - [ViperJuice/pmcp](https://github.com/ViperJuice/pmcp) - MCP Gateway - A meta-server for minimal Claude Code tool bloat with progressive disclosure
 - [alex-feel/claude-code-toolbox](https://github.com/alex-feel/claude-code-toolbox) - Claude Code Toolbox — automated installers and environment configuration framework for Claude Code with one-line setup across Windows, macOS, and Linux.
@@ -331,6 +334,7 @@
 
 ## TypeScript 
 
+- [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 - [mauriceboe/TREK](https://github.com/mauriceboe/TREK) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
 - [every-app/open-seo](https://github.com/every-app/open-seo) - Open source alternative to Semrush and Ahrefs
 - [snarktank/antfarm](https://github.com/snarktank/antfarm) - Build your agent team in OpenClaw with one command.
