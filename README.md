@@ -143,6 +143,7 @@
 
 ## Jupyter Notebook 
 
+- [albertferre/shelf-product-identifier](https://github.com/albertferre/shelf-product-identifier) - This repository contains the implementation of a facings identifier using YOLOv8 and image embeddings. The goal of this project is to count the number of facings (product instances) of each product pr
 - [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
 - [panaversity/learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai) - Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, Rancher Desktop, and Kubernetes
 
@@ -201,8 +202,8 @@
 
 - [8BitTacoSupreme/flowstate](https://github.com/8BitTacoSupreme/flowstate) - Agentic grandslam leveraging autoresearch, GStack, GSD and Superpowers.
 - [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, i
-- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
-- [ViperJuice/pmcp](https://github.com/ViperJuice/pmcp) - MCP Gateway - A meta-server for minimal Claude Code tool bloat with progressive disclosure
+- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
+- [Consiliency/pmcp](https://github.com/Consiliency/pmcp) - MCP Gateway - A meta-server for minimal Claude Code tool bloat with progressive disclosure
 - [alex-feel/claude-code-toolbox](https://github.com/alex-feel/claude-code-toolbox) - Claude Code Toolbox — automated installers and environment configuration framework for Claude Code with one-line setup across Windows, macOS, and Linux.
 - [noob-hackers/ipdrone](https://github.com/noob-hackers/ipdrone) - Track Location With Live Address And Accuracy In Termux
 - [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm) - Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.
@@ -433,7 +434,7 @@
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [aguiarsc/wireframe-ui](https://github.com/aguiarsc/wireframe-ui) - Skip Figma. Wireframe directly in your IDE with React components
 - [aidenybai/react-grab](https://github.com/aidenybai/react-grab) - Copy any UI element for your agent
-- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
+- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.
 - [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
 - [Mina-Massoud/Mina-Rich-Editor](https://github.com/Mina-Massoud/Mina-Rich-Editor) - 
 - [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
