@@ -1338,6 +1338,7 @@
 
 ## others 
 
+- [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) - Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
 - [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)
 - [arvids-unavailable/openGym](https://github.com/arvids-unavailable/openGym) - https://github.com/DuarteSantos8/openGym
 - [vasanthsreeram/Alvarmethod](https://github.com/vasanthsreeram/Alvarmethod) - One-to-one AI teaching skills (Alvar method) for Codex, Claude Code, Grok, Pi, and OpenCode
@@ -1374,7 +1375,7 @@
 - [microsoft/AI-Engineering-Coach](https://github.com/microsoft/AI-Engineering-Coach) - better agentic engineering
 - [russellromney/honker](https://github.com/russellromney/honker) - SQLite extension + bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler
 - [rebane2001/xikipedia](https://github.com/rebane2001/xikipedia) - Wikipedia as a social media feed
-- [edengilbertus/terminalphone](https://github.com/edengilbertus/terminalphone) - 
+- [Carthigan-Open-Source/terminalphone](https://github.com/Carthigan-Open-Source/terminalphone) - 
 - [sdi2200262/agentic-project-management](https://github.com/sdi2200262/agentic-project-management) - A framework for managing complex projects with spec-driven multi-agent workflows.
 - [AbirHasan2005/OPRecon](https://github.com/AbirHasan2005/OPRecon) - Using this you can find informations via PhoneInFoga(In-Built), Find location via IP Address & website link via IPGeoLocation(In-Built) and Phone Number Tracker(Made by @AbirHasan2005). Phone Number T
 - [juliettech13/queryable-yc-library](https://github.com/juliettech13/queryable-yc-library) - Transcribed and reformatted every article, video and podcast created by YCombinator as a knowledge base to query by any AI or human
@@ -1418,7 +1419,7 @@
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [composio-community/secure-openclaw](https://github.com/composio-community/secure-openclaw) - A personal 24x7 AI assistant like OpenClaw that runs on your messaging platforms. Send a message on WhatsApp, Telegram, Signal, or iMessage and get responses from Claude with full tool access, persist
 - [Arcanum-Sec/sec-context](https://github.com/Arcanum-Sec/sec-context) - AI Code Security Anti-Patterns distilled from 150+ sources to help LLMs generate safer code.
-- [malteristo/magic](https://github.com/malteristo/magic) - Personal agency system
+- [malteristo/magic](https://github.com/malteristo/magic) - the practice of magic
 - [whawkinsiv/solo-founder-skills](https://github.com/whawkinsiv/solo-founder-skills) - Skillset optimized for indie makers, and bootstrapped solo founders building SaaS applications with AI tools (Lovable, Replit, Claude Code).
 - [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
 - [codescene-oss/codescene-mcp-server](https://github.com/codescene-oss/codescene-mcp-server) - The CodeScene MCP Server exposes CodeScene’s Code Health analysis as local AI-friendly tools.
