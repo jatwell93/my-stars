@@ -570,7 +570,7 @@
 - [rizukirr/vibekit](https://github.com/rizukirr/vibekit) - Efficient, Opinionated vibe-coding pipeline for CC / Codex / OpenCode / Gemini
 - [webfuse-com/awesome-autoresearch](https://github.com/webfuse-com/awesome-autoresearch) - A curated list of autonomous improvement loops, research agents, and autoresearch-style systems inspired by Karpathy's autoresearch.
 - [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) - Lightweight coding agent written in Rust, optimized for memory footprint and performance
-- [regent-vcs/re_gent](https://github.com/regent-vcs/re_gent) - Legacy stable repository. Current re_gent development: https://github.com/bonez-io/re_gent
+- [regent-vcs/re_gent](https://github.com/regent-vcs/re_gent) - Version control for AI agents — track what your agent did, blame any line to a prompt, inspect any step.
 - [Astro-Han/karpathy-llm-wiki](https://github.com/Astro-Han/karpathy-llm-wiki) - Agent Skills-compatible LLM wiki for Claude Code, Cursor, and Codex. Build a Karpathy-style knowledge base from raw sources, citations, and linting.
 - [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign) - Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MI
 - [QuinnAho/claudemap](https://github.com/QuinnAho/claudemap) - google maps for vibecoders.
@@ -765,7 +765,7 @@
 - [SethGammon/Citadel](https://github.com/SethGammon/Citadel) - The operating layer for Claude Code + OpenAI Codex: persistent project memory, intent routing, safety hooks, cost telemetry, and parallel agent fleets.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [code-yeongyu/lazycodex](https://github.com/code-yeongyu/lazycodex) - The one and only agent harness for complex codebases. Project memory, planning, execution, and verified completion inside Codex.
-- [regent-vcs/re_gent](https://github.com/regent-vcs/re_gent) - Legacy stable repository. Current re_gent development: https://github.com/bonez-io/re_gent
+- [regent-vcs/re_gent](https://github.com/regent-vcs/re_gent) - Version control for AI agents — track what your agent did, blame any line to a prompt, inspect any step.
 - [QuinnAho/claudemap](https://github.com/QuinnAho/claudemap) - google maps for vibecoders.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
@@ -947,7 +947,7 @@
 
 ## golang 
 
-- [regent-vcs/re_gent](https://github.com/regent-vcs/re_gent) - Legacy stable repository. Current re_gent development: https://github.com/bonez-io/re_gent
+- [regent-vcs/re_gent](https://github.com/regent-vcs/re_gent) - Version control for AI agents — track what your agent did, blame any line to a prompt, inspect any step.
 - [intothevoid/rss2podcast](https://github.com/intothevoid/rss2podcast) - Parse, summarise and convert rss feeds into an audio podcast
 - [superstreamlabs/memphis](https://github.com/superstreamlabs/memphis) - Memphis.dev is a highly scalable and effortless data streaming platform
 - [strongdm/comply](https://github.com/strongdm/comply) - Compliance automation framework, focused on SOC2
