@@ -82,6 +82,7 @@
 - [regent-vcs/re_gent](https://github.com/regent-vcs/re_gent) - Version control for AI agents — track what your agent did, blame any line to a prompt, inspect any step.
 - [intothevoid/rss2podcast](https://github.com/intothevoid/rss2podcast) - Parse, summarise and convert rss feeds into an audio podcast
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
+- [FreePeak/LeanKG](https://github.com/FreePeak/LeanKG) - LeanKG: Stop Burning Tokens. Start Coding Lean.
 - [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
 - [superstreamlabs/memphis](https://github.com/superstreamlabs/memphis) - Memphis.dev is a highly scalable and effortless data streaming platform
 - [strongdm/comply](https://github.com/strongdm/comply) - Compliance automation framework, focused on SOC2
@@ -215,7 +216,7 @@
 
 ## Python 
 
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harne
 - [HUANGCHIHHUNGLeo/claude-real-video](https://github.com/HUANGCHIHHUNGLeo/claude-real-video) - Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.
 - [makerspet/oomwoo](https://github.com/makerspet/oomwoo) - Open-source vacuum robot cleaner
 - [cactus-compute/needle](https://github.com/cactus-compute/needle) - 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
@@ -329,7 +330,6 @@
 - [Helvesec/rmux](https://github.com/Helvesec/rmux) - Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows.
 - [ad-si/Coding-Flashcards](https://github.com/ad-si/Coding-Flashcards) - Over 1000 flashcards to learn Rust, SQLite, Lua, C, Godot, or Wolfram Language from first principles. Written in markdown with script to convert them to Anki decks or PDF files.
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM efficient harness
-- [FreePeak/LeanKG](https://github.com/FreePeak/LeanKG) - LeanKG: Stop Burning Tokens. Start Coding Lean.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
