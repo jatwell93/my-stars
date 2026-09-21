@@ -1080,6 +1080,7 @@
 - [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
 - [rizukirr/no-vibe](https://github.com/rizukirr/no-vibe) - Turn your AI assistant into a tutor. It plans, shows code, reviews, adapts to how you learn and helps you complete your real project on your own
 - [ad-si/Coding-Flashcards](https://github.com/ad-si/Coding-Flashcards) - Over 1000 flashcards to learn Rust, SQLite, Lua, C, Godot, or Wolfram Language from first principles. Written in markdown with script to convert them to Anki decks or PDF files.
+- [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) - DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 - [fpsvogel/learn-ruby](https://github.com/fpsvogel/learn-ruby) - Learning resources for Ruby, Rails, and related skills.
 - [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
 
