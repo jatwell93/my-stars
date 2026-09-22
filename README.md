@@ -31,7 +31,6 @@
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TypeScript](#typescript)
-- [Vue](#vue)
 
 ## C 
 
@@ -108,7 +107,7 @@
 - [Manavarya09/design-extract](https://github.com/Manavarya09/design-extract) - Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Comp
 - [techjarves/USB-Uncensored-LLM](https://github.com/techjarves/USB-Uncensored-LLM) - The ultimate zero-install, portable local AI environment. Run high-quality, uncensored LLMs (Gemma, Qwen, NemoMix) directly from any USB drive or SSD. Fully air-gapped, cross-platform (Win/Mac/Linux),
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
-- [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) - 368 AI skills, 76 expert agents, and 859 stdlib Python tools for every team: engineering, PM, marketing, C-level, compliance, business ops, and research. Installs on Claude Code, Cursor, Codex, Gemini
+- [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) - 372 AI skills, 76 expert agents, and 867 stdlib Python tools for every team: engineering, PM, marketing, C-level, compliance, business ops, and research. Installs on Claude Code, Cursor, Codex, Gemini
 - [Arcanum-Sec/sec-context](https://github.com/Arcanum-Sec/sec-context) - AI Code Security Anti-Patterns distilled from 150+ sources to help LLMs generate safer code.
 - [coderamp-labs/gitrules](https://github.com/coderamp-labs/gitrules) - Context files in no time for your github repo
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
@@ -121,6 +120,7 @@
 
 ## JavaScript 
 
+- [ruvelro/openGym](https://github.com/ruvelro/openGym) - Mirror of the openGym project (gitlab.com/DuarteSantos8/opengym) — self-hosted gym & body-weight tracker. Development happens upstream; this copy syncs every Monday.
 - [arvids-unavailable/openGym](https://github.com/arvids-unavailable/openGym) - https://github.com/DuarteSantos8/openGym
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
 - [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) - The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero conf
@@ -391,7 +391,7 @@
 - [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, 
 - [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s
 - [RunMaestro/Maestro](https://github.com/RunMaestro/Maestro) - Agent Orchestration Command Center
-- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline 
+- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline 
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 - [GurinderRawala/OmniKey-AI](https://github.com/GurinderRawala/OmniKey-AI) - OmniKey AI is a productivity tool that enhances your workflow with AI-powered prompt enhancements, grammar correction, and custom tasks.
 - [anomalyco/sst](https://github.com/anomalyco/sst) - Build full-stack apps on your own infrastructure.
@@ -460,7 +460,6 @@
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
 - [RamiAwar/dataline](https://github.com/RamiAwar/dataline) - Chat with your data - AI data analysis and visualization on CSV, Postgres, MySQL, Snowflake, SQLite...
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol
 - [MedChaouch/Puzld.ai](https://github.com/MedChaouch/Puzld.ai) - Multi-LLM orchestration framework
 - [gommzystudio/device-activity-tracker](https://github.com/gommzystudio/device-activity-tracker) - A phone number can reveal whether a device is active, in standby or offline (and more). This PoC demonstrates how delivery receipts + RTT timing leak sensitive device-activity patterns. (WhatsApp / Si
 - [rbbydotdev/someday](https://github.com/rbbydotdev/someday) - Free to host calendar availability picker - open-source cal.com / calendly alternative built on Google-Apps-Script for Gmail users. Built with modern technologies like React, TypeScript, Shadcn/UI, an
@@ -483,10 +482,6 @@
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The web data API to search, scrape, and interact at scale. 🔥
-
-## Vue 
-
-- [HugeCatLab/ChatTutor](https://github.com/HugeCatLab/ChatTutor) - 👨‍🏫 ChatTutor: Visual and Interactive AI Tutor
 
 
 ## License
