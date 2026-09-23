@@ -454,7 +454,7 @@
 - [mjcrepeau/retirement-planner](https://github.com/mjcrepeau/retirement-planner) - Retirement account calculator
 - [openlaunch-org/Open-Launch](https://github.com/openlaunch-org/Open-Launch) - The first complete open source alternative to Product Hunt.
 - [itshover/itshover](https://github.com/itshover/itshover) - Icons that move with intent
-- [MrSibe/KnowNote](https://github.com/MrSibe/KnowNote) - A local-first AI knowledge base & NotebookLM alternative built with Electron. More convenient, more lightweight, and understands you better!
+- [mrsibe/KnowNote](https://github.com/mrsibe/KnowNote) - A local-first AI knowledge base & NotebookLM alternative built with Electron. More convenient, more lightweight, and understands you better!
 - [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - ⛰️ LifeOS — The universal AI Harness designed to move you from Current to Ideal state in both life and work.
 - [siinghd/yourinfo](https://github.com/siinghd/yourinfo) - Real-time browser fingerprinting demo with cross-browser tracking, behavioral analysis, Grok AI profiling, and interactive 3D globe visualization
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
