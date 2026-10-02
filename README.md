@@ -172,12 +172,9 @@
 - [Engineering4AI/awesome-spec-driven-development](https://github.com/Engineering4AI/awesome-spec-driven-development) - A curated list of awesome resources for spec-driven development (SDD)
 - [michelpereira/awesome-games-of-coding](https://github.com/michelpereira/awesome-games-of-coding) - A curated list of games that can teach you how to learn a programming language.
 - [rihebty/flow-kit](https://github.com/rihebty/flow-kit) - 一套融合了bmad、spec-kit、OpenSpec、GSD、claude-task-master、superpowers、gstack、skills的 AI 编程规范化流程
-- [ForceInjection/OpenSpec-practise](https://github.com/ForceInjection/OpenSpec-practise) - OpenSpec Practical Guide
 - [nowork-studio/awesome-ai-startups](https://github.com/nowork-studio/awesome-ai-startups) - A curated list of indie-built AI startups — bootstrapped, pre-seed, and angel-funded products only.
-- [exploitx3/livedemo-deploy](https://github.com/exploitx3/livedemo-deploy) - LiveDemo scripts for deployment and running local
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
 - [webfuse-com/awesome-autoresearch](https://github.com/webfuse-com/awesome-autoresearch) - A curated list of autonomous improvement loops, research agents, and autoresearch-style systems inspired by Karpathy's autoresearch.
-- [codescene-oss/pr-refactoring-agent](https://github.com/codescene-oss/pr-refactoring-agent) - This agent lets reviewers trigger guided refactoring and code-health workflows from a pull request comment.
 - [amitness/learning](https://github.com/amitness/learning) - A log of things I'm learning
 - [juliettech13/queryable-yc-library](https://github.com/juliettech13/queryable-yc-library) - Transcribed and reformatted every article, video and podcast created by YCombinator as a knowledge base to query by any AI or human
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
@@ -384,7 +381,7 @@
 ## TypeScript 
 
 - [chrisurf/obsidian-voice](https://github.com/chrisurf/obsidian-voice) - 🔊 The Obsidian Voice plugin lets you listen to your written content being read aloud—mobile-friendly audiobook-like experience. 🎧
-- [mvschwarz/openrig](https://github.com/mvschwarz/openrig) - Multi-agent harness that runs Claude Code and Codex together as one system
+- [mvschwarz/openrig](https://github.com/mvschwarz/openrig) - Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.
 - [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.
 - [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) - Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
