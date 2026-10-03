@@ -119,6 +119,7 @@
 
 ## JavaScript 
 
+- [stephenlthorn/auto-identity-remove](https://github.com/stephenlthorn/auto-identity-remove) - Automated data broker opt-out runner — removes your personal info from 30+ people-search sites on a monthly schedule
 - [ruvelro/openGym](https://github.com/ruvelro/openGym) - Mirror of the openGym project (gitlab.com/DuarteSantos8/opengym) — self-hosted gym & body-weight tracker. Development happens upstream; this copy syncs every Monday.
 - [arvids-unavailable/openGym](https://github.com/arvids-unavailable/openGym) - https://github.com/DuarteSantos8/openGym
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
@@ -141,11 +142,9 @@
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [composio-community/secure-openclaw](https://github.com/composio-community/secure-openclaw) - A personal 24x7 AI assistant like OpenClaw that runs on your messaging platforms. Send a message on WhatsApp, Telegram, Signal, or iMessage and get responses from Claude with full tool access, persist
 - [oasido/shift-scheduler](https://github.com/oasido/shift-scheduler) - Web app for easy shift scheduling & easy employee absence requests management.
-- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
 - [chrisvel/tududi](https://github.com/chrisvel/tududi) - A calm, open system for organizing life and work. Tasks, projects, notes, areas, and smart workflows - self-hosted or hosted.
 - [bookmark/BMAD-METHOD-EXP](https://github.com/bookmark/BMAD-METHOD-EXP) - 
-- [RichardLitt/generator-standard-readme](https://github.com/RichardLitt/generator-standard-readme) - Scaffold out a Standard Readme
 - [RichardLitt/standard-readme](https://github.com/RichardLitt/standard-readme) - A standard style for README files
 - [yabwe/medium-editor](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
 - [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
@@ -244,7 +243,6 @@
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 6K websites
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [Astro-Han/karpathy-llm-wiki](https://github.com/Astro-Han/karpathy-llm-wiki) - Agent Skills-compatible LLM wiki for Claude Code, Cursor, and Codex. Build a Karpathy-style knowledge base from raw sources, citations, and linting.
-- [ChuprinaDaria/Vibecode-Cleaner-Fartrun](https://github.com/ChuprinaDaria/Vibecode-Cleaner-Fartrun) - Not another AI reviewing AI. Rust-powered code scanner that actually reads your codebase —    zero extra tokens consumed. 29 MCP tools: security vulns, dead code, health checks, save  points, frozen f
 - [elastic/supply-chain-monitor](https://github.com/elastic/supply-chain-monitor) - 
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
@@ -256,7 +254,7 @@
 - [samueljklee/attractor](https://github.com/samueljklee/attractor) - DOT-based pipeline runner for multi-stage AI workflows. Implements the StrongDM Attractor nlspec.
 - [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) - Useful tool to track location or mobile number
 - [kohjingyu/search-agents](https://github.com/kohjingyu/search-agents) - Code for the paper 🌳 Tree Search for Language Model Agents
-- [malteristo/magic](https://github.com/malteristo/magic) - the practice of magic
+- [malteristo/magic](https://github.com/malteristo/magic) - a personal practice with AI
 - [whawkinsiv/solo-founder-skills](https://github.com/whawkinsiv/solo-founder-skills) - Skillset optimized for indie makers, and bootstrapped solo founders building SaaS applications with AI tools (Lovable, Replit, Claude Code).
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 - [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) - A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
@@ -266,17 +264,15 @@
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - Personal memory across agents
 - [openbq-org/OpenBB](https://github.com/openbq-org/OpenBB) - Open Data Platform for analysts, quants and AI agents.
-- [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) - State-of-the-art TTS model under 25MB 😻
+- [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) - Open-source State-of-the-art TTS model which runs on a CPU 😻
 - [ViggoZ/producthunt-daily-hot](https://github.com/ViggoZ/producthunt-daily-hot) - 自动生成每日Product Hunt热门产品中文榜单，基于GitHub Actions自动提交Markdown文件
 - [davidfowl/tally](https://github.com/davidfowl/tally) - Let agents classify your bank transactions.
 - [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) - DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 - [wizarrrr/wizarr](https://github.com/wizarrrr/wizarr) - Wizarr is an advanced user invitation and management system for Jellyfin, Plex, Emby etc.
-- [Dicklesworthstone/mindmap-generator](https://github.com/Dicklesworthstone/mindmap-generator) - Turn any input document into a sophisticated, context-dependent mindmap that distills the meaning and structure of the document.
 - [Dicklesworthstone/mcp_agent_mail](https://github.com/Dicklesworthstone/mcp_agent_mail) - Asynchronous coordination layer for AI coding agents: identities, inboxes, searchable threads, and advisory file leases over FastMCP + Git + SQLite
 - [Safiullah-Rahu/CSV-AI](https://github.com/Safiullah-Rahu/CSV-AI) - CSV-AI is the ultimate app powered by LangChain, OpenAI, and Streamlit that allows you to unlock hidden insights in your CSV files. With CSV-AI, you can effortlessly interact with, summarize, and anal
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos 
-- [HKUDS/Paper2Slides](https://github.com/HKUDS/Paper2Slides) - "Paper2Slides: From Paper to Presentation in One Click"
 - [Dicklesworthstone/ultimate_bug_scanner](https://github.com/Dicklesworthstone/ultimate_bug_scanner) - Static analysis tool that catches 1000+ bug patterns across all popular programming languages, with auto-wiring into AI coding agent quality guardrails
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) - Pocket Flow: Codebase to Tutorial
@@ -297,7 +293,6 @@
 - [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🧠 Train a 64M-parameter LLM from scratch in just 2h!
 - [coleam00/mcp-crawl4ai-rag](https://github.com/coleam00/mcp-crawl4ai-rag) - Web Crawling and RAG Capabilities for AI Agents and AI Coding Assistants
 - [LoredCast/filewizard](https://github.com/LoredCast/filewizard) - File Converter, OCR, Transcription & TTS WebUI
-- [barisgit/spec-kit-improved](https://github.com/barisgit/spec-kit-improved) - Advanced toolkit to help you get started with Spec-Driven Development
 - [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
 - [BeehiveInnovations/pal-mcp-server](https://github.com/BeehiveInnovations/pal-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
@@ -315,7 +310,6 @@
 - [railsadminteam/rails_admin](https://github.com/railsadminteam/rails_admin) - RailsAdmin is a Rails engine that provides an easy-to-use interface for managing your data
 - [crmne/ruby_llm](https://github.com/crmne/ruby_llm) - The Ruby-native AI framework. Chats, agents, tools, images, audio, and video through one consistent API, in plain Ruby or Rails.
 - [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
-- [flowcommerce/solidus](https://github.com/flowcommerce/solidus) - 
 
 ## Rust 
 
@@ -335,7 +329,6 @@
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
-- [nguyenphutrong/agentlens](https://github.com/nguyenphutrong/agentlens) - Scan codebases and generate hierarchical symbol maps, module summaries, and memory markers to help AI assistants (Claude, Cursor) navigate your code effectively.
 - [block/ai-rules](https://github.com/block/ai-rules) - Manage AI rules, commands, and skills across multiple coding agents from one place.
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light
 - [mikeyobrien/ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) - An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration
@@ -437,7 +430,6 @@
 - [scarnecchia/attractor](https://github.com/scarnecchia/attractor) - nlspec of StrongDM's Attractor, a non-interactive Coding Agent sufficient for use in a Software Factory
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - AI coworker with memory and collaboration
 - [NeoLabHQ/context-engineering-kit](https://github.com/NeoLabHQ/context-engineering-kit) - Hand-crafted Claude Code Skills focused on improving agent results quality. Compatible with OpenCode, Cursor, Antigravity, Gemini CLI, and others. Includes CodeRabbit open-source alternative.
-- [numman-ali/gastown-remote](https://github.com/numman-ali/gastown-remote) - Always-on AI agent orchestration in the cloud. Deploy Gas Town to a VPS, access from anywhere via Tailscale.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [kaitranntt/ccs](https://github.com/kaitranntt/ccs) - Switch between Claude accounts, Gemini, Copilot, OpenRouter (300+ models) via CLIProxyAPI OAuth proxy. Visual dashboard, remote proxy support, WebSearch fallback. Zero-config to production-ready.
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
@@ -447,7 +439,6 @@
 - [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
-- [jlevy/markform](https://github.com/jlevy/markform) - Structured Markdown documents for agents and humans
 - [Nutlope/llamatutor](https://github.com/Nutlope/llamatutor) - An AI personal tutor built with Llama 3.1
 - [dtwelvespacespvt/datasense](https://github.com/dtwelvespacespvt/datasense) - Chat with your data - AI data analysis and visualization on CSV, Postgres, MySQL, Snowflake, SQLite...
 - [mjcrepeau/retirement-planner](https://github.com/mjcrepeau/retirement-planner) - Retirement account calculator
