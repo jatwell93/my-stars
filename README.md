@@ -212,6 +212,7 @@
 
 ## Python 
 
+- [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) - 
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 - [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes) - All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages
 - [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (mul
