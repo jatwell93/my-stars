@@ -44,7 +44,6 @@
 
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
-- [trvon/yams](https://github.com/trvon/yams) - Persistent memory for LLMs and apps. Content-addressed storage with dedupe, compression, full-text and vector search.
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 
 ## CSS 
@@ -81,7 +80,6 @@
 - [regent-vcs/re_gent](https://github.com/regent-vcs/re_gent) - Version control for AI agents — track what your agent did, blame any line to a prompt, inspect any step.
 - [intothevoid/rss2podcast](https://github.com/intothevoid/rss2podcast) - Parse, summarise and convert rss feeds into an audio podcast
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
-- [FreePeak/LeanKG](https://github.com/FreePeak/LeanKG) - LeanKG: Stop Burning Tokens. Start Coding Lean.
 - [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
 - [superstreamlabs/memphis](https://github.com/superstreamlabs/memphis) - Memphis.dev is a highly scalable and effortless data streaming platform
 - [strongdm/comply](https://github.com/strongdm/comply) - Compliance automation framework, focused on SOC2
@@ -108,13 +106,10 @@
 - [techjarves/USB-Uncensored-LLM](https://github.com/techjarves/USB-Uncensored-LLM) - The ultimate zero-install, portable local AI environment. Run high-quality, uncensored LLMs (Gemma, Qwen, NemoMix) directly from any USB drive or SSD. Fully air-gapped, cross-platform (Win/Mac/Linux),
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
 - [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) - 385 AI skills, 77 expert agents, and 900 stdlib Python tools for every team: engineering, PM, marketing, C-level, compliance, business ops, research, and a LinkedIn toolkit. Installs on Claude Code, C
-- [Arcanum-Sec/sec-context](https://github.com/Arcanum-Sec/sec-context) - AI Code Security Anti-Patterns distilled from 150+ sources to help LLMs generate safer code.
-- [coderamp-labs/gitrules](https://github.com/coderamp-labs/gitrules) - Context files in no time for your github repo
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 
 ## Java 
 
-- [mock-server/mockserver-monorepo](https://github.com/mock-server/mockserver-monorepo) - MockServer is an HTTP(S) mock server and proxy for testing that lets you mock APIs, inspect and modify live traffic, and inject failures. It supports HTTP/1.1, HTTP/2, gRPC, WebSockets, TCP and more o
 - [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources.
 - [SirChri/employee-shift-scheduler](https://github.com/SirChri/employee-shift-scheduler) - A simple employee shift scheduler, based on React, Java (SpringBoot) and PostgreSQL.
 
@@ -129,12 +124,10 @@
 - [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) - The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero conf
 - [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
 - [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
-- [SethGammon/Citadel](https://github.com/SethGammon/Citadel) - The operating layer for Claude Code + OpenAI Codex: persistent project memory, intent routing, safety hooks, cost telemetry, and parallel agent fleets.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [Doorman11991/smallcode](https://github.com/Doorman11991/smallcode) - AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.
 - [sdi2200262/agentic-project-management](https://github.com/sdi2200262/agentic-project-management) - A framework for managing complex projects with spec-driven multi-agent workflows.
 - [vizzuhq/vizzu-lib](https://github.com/vizzuhq/vizzu-lib) - Library for animated data visualizations and data stories.
-- [anc95/ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) - 🐥 A code review bot powered by ChatGPT
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 - [QuinnAho/claudemap](https://github.com/QuinnAho/claudemap) - google maps for vibecoders.
 - [assai-id/nemesis](https://github.com/assai-id/nemesis) - 
@@ -142,8 +135,6 @@
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [calesthio/Crucix](https://github.com/calesthio/Crucix) - Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.
 - [typicode/mistcss](https://github.com/typicode/mistcss) - Create visual components for React without JavaScript or TypeScript.  Leverage native HTML and CSS. It's an alternative to CSS-in-JS and CSS modules.
-- [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
-- [composio-community/secure-openclaw](https://github.com/composio-community/secure-openclaw) - A personal 24x7 AI assistant like OpenClaw that runs on your messaging platforms. Send a message on WhatsApp, Telegram, Signal, or iMessage and get responses from Claude with full tool access, persist
 - [oasido/shift-scheduler](https://github.com/oasido/shift-scheduler) - Web app for easy shift scheduling & easy employee absence requests management.
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
 - [chrisvel/tududi](https://github.com/chrisvel/tududi) - A calm, open system for organizing life and work. Tasks, projects, notes, areas, and smart workflows - self-hosted or hosted.
@@ -154,6 +145,8 @@
 
 ## Jupyter Notebook 
 
+- [hrnbot/Basic-Mathematics-for-Machine-Learning](https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning) - The motive behind Creating this repo is to feel the fear of mathematics and do what ever you want to do in Machine Learning , Deep Learning  and other fields of AI
+- [R6410418/Jackrong-llm-finetuning-guide](https://github.com/R6410418/Jackrong-llm-finetuning-guide) - 
 - [thu-vu92/local-llms-analyse-finance](https://github.com/thu-vu92/local-llms-analyse-finance) - In this project, I explored how local LLMs can be used to label data and support analyses. Specifically, I used Llama2 model to automatically categorise my bank transaction data.
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [albertferre/shelf-product-identifier](https://github.com/albertferre/shelf-product-identifier) - This repository contains the implementation of a facings identifier using YOLOv8 and image embeddings. The goal of this project is to count the number of facings (product instances) of each product pr
@@ -379,6 +372,7 @@
 
 ## TypeScript 
 
+- [hardkoded/ai-engineering-coach-plugin](https://github.com/hardkoded/ai-engineering-coach-plugin) - better agentic engineering
 - [chrisurf/obsidian-voice](https://github.com/chrisurf/obsidian-voice) - 🔊 The Obsidian Voice plugin lets you listen to your written content being read aloud—mobile-friendly audiobook-like experience. 🎧
 - [mvschwarz/openrig](https://github.com/mvschwarz/openrig) - Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.
 - [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
@@ -397,7 +391,6 @@
 - [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 - [liketrek/TREK](https://github.com/liketrek/TREK) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
 - [every-app/open-seo](https://github.com/every-app/open-seo) - Open source alternative to Semrush and Ahrefs
-- [snarktank/antfarm](https://github.com/snarktank/antfarm) - Build your agent team in OpenClaw with one command.
 - [code-yeongyu/lazycodex](https://github.com/code-yeongyu/lazycodex) - The one and only agent harness for complex codebases. Project memory, planning, execution, and verified completion inside Codex.
 - [OpenHealthForAll/open-health](https://github.com/OpenHealthForAll/open-health) - OpenHealth, AI Health Assistant | Powered by Your Data
 - [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim) - Lean, fine tuned Opencode multi agent suite · Mix any models · Auto delegate tasks
@@ -410,11 +403,9 @@
 - [newtype-01/newtype-os](https://github.com/newtype-01/newtype-os) - Open-source plugin edition of newtype OS — an AI content team for research, writing and knowledge work.
 - [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign) - Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MI
 - [leigest519/OpenGame](https://github.com/leigest519/OpenGame) - OpenGame: Open Agentic Coding for Games
-- [freecodexyz/free-code](https://github.com/freecodexyz/free-code) - The free build of Claude Code. All telemetry removed, security-prompt guardrails stripped, all experimental features enabled.
 - [dembrandt/dembrandt](https://github.com/dembrandt/dembrandt) - Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 - [wanikua/become-ceo](https://github.com/wanikua/become-ceo) - Your AI executive team on Discord. 7 specialized agents — Engineering, Finance, Marketing, DevOps, Legal, Management, Chief of Staff. One-click setup on any free-tier server. Built on Clawdbot.
-- [GreenSheep01201/claw-empire](https://github.com/GreenSheep01201/claw-empire) - Command Your AI Agent Empire from the CEO Desk — A local-first AI agent office simulator that orchestrates CLI, OAuth, and API-connected agents (Claude Code, Codex CLI, Gemini CLI, OpenCode, and more)
 - [inkeep/agents](https://github.com/inkeep/agents) - Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
 - [millionco/expect](https://github.com/millionco/expect) - Expect tests your agent's code in a real browser
@@ -429,8 +420,6 @@
 - [alumnium-hq/alumnium](https://github.com/alumnium-hq/alumnium) - End-to-End Testing with AI for Agents and Engineers
 - [sddiv/NLSpec-MCPServer_Old](https://github.com/sddiv/NLSpec-MCPServer_Old) - Generating NLSpec-Server from NLSpec using Claude Code
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
-- [bitloops/ddd-hexagonal-cqrs-es-eda](https://github.com/bitloops/ddd-hexagonal-cqrs-es-eda) - Complete working example of using Domain Driven Design (DDD), Hexagonal Architecture, CQRS, Event Sourcing (ES), Event Driven Architecture (EDA), Behaviour Driven Development (BDD) using TypeScript an
-- [michaelshimeles/ralphy](https://github.com/michaelshimeles/ralphy) - My Ralph Wiggum setup, an autonomous bash script that runs Claude Code, Codex, OpenCode, Cursor agent, Qwen & Droid in a loop until your PRD is complete.
 - [vitalets/playwright-bdd](https://github.com/vitalets/playwright-bdd) - BDD testing with Playwright runner
 - [cucumber/cucumber-js](https://github.com/cucumber/cucumber-js) - Cucumber for JavaScript
 - [scarnecchia/attractor](https://github.com/scarnecchia/attractor) - nlspec of StrongDM's Attractor, a non-interactive Coding Agent sufficient for use in a Software Factory
@@ -445,7 +434,6 @@
 - [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
-- [Nutlope/llamatutor](https://github.com/Nutlope/llamatutor) - An AI personal tutor built with Llama 3.1
 - [dtwelvespacespvt/datasense](https://github.com/dtwelvespacespvt/datasense) - Chat with your data - AI data analysis and visualization on CSV, Postgres, MySQL, Snowflake, SQLite...
 - [mjcrepeau/retirement-planner](https://github.com/mjcrepeau/retirement-planner) - Retirement account calculator
 - [openlaunch-org/Open-Launch](https://github.com/openlaunch-org/Open-Launch) - The first complete open source alternative to Product Hunt.
