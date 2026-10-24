@@ -106,7 +106,7 @@
 - [Manavarya09/design-extract](https://github.com/Manavarya09/design-extract) - Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Comp
 - [techjarves/USB-Uncensored-LLM](https://github.com/techjarves/USB-Uncensored-LLM) - The ultimate zero-install, portable local AI environment. Run high-quality, uncensored LLMs (Gemma, Qwen, NemoMix) directly from any USB drive or SSD. Fully air-gapped, cross-platform (Win/Mac/Linux),
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
-- [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) - 385 AI skills, 77 expert agents, and 900 stdlib Python tools for every team: engineering, PM, marketing, C-level, compliance, business ops, research, and a LinkedIn toolkit. Installs on Claude Code, C
+- [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) - 385 AI skills, 76 expert agents, and 906 stdlib Python tools for every team: engineering, PM, marketing, C-level, compliance, business ops, research, and a LinkedIn toolkit. Installs on Claude Code, C
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 
 ## Java 
@@ -118,7 +118,7 @@
 
 - [fmacpro/horseman-article-parser-ui](https://github.com/fmacpro/horseman-article-parser-ui) - Web Page Inspection Tool UI. Article Summary, Sentiment Analysis, Keyword Extraction, Named Entity Recognition & Spell Check
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
-- [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) - Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login
+- [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) - Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. 
 - [stephenlthorn/auto-identity-remove](https://github.com/stephenlthorn/auto-identity-remove) - Automated data broker opt-out runner — removes your personal info from 30+ people-search sites on a monthly schedule
 - [ruvelro/openGym](https://github.com/ruvelro/openGym) - Mirror of the openGym project (gitlab.com/DuarteSantos8/opengym) — self-hosted gym & body-weight tracker. Development happens upstream; this copy syncs every Monday.
 - [arvids-unavailable/openGym](https://github.com/arvids-unavailable/openGym) - https://github.com/DuarteSantos8/openGym
