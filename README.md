@@ -133,7 +133,7 @@
 - [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [Doorman11991/smallcode](https://github.com/Doorman11991/smallcode) - AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.
-- [sdi2200262/agentic-project-management](https://github.com/sdi2200262/agentic-project-management) - A framework for managing complex projects with spec-driven multi-agent workflows.
+- [sdi2200262/agentic-project-management](https://github.com/sdi2200262/agentic-project-management) - A Spec-Driven Multi-Agent Framework for AI-Assisted Software Engineering
 - [vizzuhq/vizzu-lib](https://github.com/vizzuhq/vizzu-lib) - Library for animated data visualizations and data stories.
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 - [QuinnAho/claudemap](https://github.com/QuinnAho/claudemap) - google maps for vibecoders.
@@ -231,8 +231,8 @@
 - [nykooi1/vibe-wise](https://github.com/nykooi1/vibe-wise) - A Claude Code / Codex plugin that helps you learn how to build while AI writes the code.
 - [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) - 
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
-- [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes) - The coding intelligence and skills package for Hermes Agent ⚚ Install once, then just type 'dag-ulw' to be graph engineering master.
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (mul
+- [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes) - The coding intelligence and skills for Hermes Agent ⚚ just install once. then type 'dag-ulw' to be graph engineering master.
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser 
 - [HUANGCHIHHUNGLeo/claude-real-video](https://github.com/HUANGCHIHHUNGLeo/claude-real-video) - Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.
 - [makerspet/oomwoo](https://github.com/makerspet/oomwoo) - Open-source vacuum robot cleaner
 - [cactus-compute/needle](https://github.com/cactus-compute/needle) - Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, ASR, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.
@@ -395,6 +395,7 @@
 
 ## TypeScript 
 
+- [sophia486/pii-gui](https://github.com/sophia486/pii-gui) - Local-first desktop app that finds and redacts PII in PDFs, Markdown and text, with no document content leaving your device
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
 - [elie222/rakazo](https://github.com/elie222/rakazo) - Open-source Grok Bot alternative. Choose your own model and sandbox.
 - [Runfusion/Fusion](https://github.com/Runfusion/Fusion) - Your Software Factory - build faster and better with multi node agents that work 24/7
