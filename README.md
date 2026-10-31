@@ -123,6 +123,7 @@
 
 ## JavaScript 
 
+- [usezn/zn](https://github.com/usezn/zn) - The local security layer for coding agents. Use Claude Code, Codex CLI, Cursor, OpenCode, Antigravity or the ZCode desktop app without exposing your secrets, your data or your systems. Open source (MI
 - [fmacpro/horseman-article-parser-ui](https://github.com/fmacpro/horseman-article-parser-ui) - Web Page Inspection Tool UI. Article Summary, Sentiment Analysis, Keyword Extraction, Named Entity Recognition & Spell Check
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) - Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. 
@@ -220,6 +221,9 @@
 
 ## Python 
 
+- [scadastrangelove/awesome-ai-security-tools](https://github.com/scadastrangelove/awesome-ai-security-tools) - A curated list of public-source, research, and commercial tools for AI security and AI-assisted cybersecurity — autotriage, agent security, AI/ML supply chain, pentest agents, AI SAST, LLM-driven fuzz
+- [snyk/agent-scan](https://github.com/snyk/agent-scan) - Security scanner for AI agents, MCP servers and agent skills.
+- [scadastrangelove/agent-audit](https://github.com/scadastrangelove/agent-audit) - Forensic auditor for local AI coding agents (Claude Code, Codex CLI, OpenClaw) and project-surface scanner for repos containing skills, plugins, and MCP manifests. Reads session logs, configs, and ins
 - [smsolutionsva-byte/ledgerwise](https://github.com/smsolutionsva-byte/ledgerwise) - LedgerWise is a Streamlit-based bookkeeping and Excel operations assistant for virtual assistants and bookkeepers, with SQLite accounting, journal entries, reports, imports, cleanup tools, and VA auto
 - [martinvigo/email2phonenumber](https://github.com/martinvigo/email2phonenumber) - A OSINT tool to obtain a target's phone number just by having his email address
 - [thruwire/foreman](https://github.com/thruwire/foreman) - An agent supervisor and software factory foreman powered by decision models
@@ -333,6 +337,8 @@
 
 ## Rust 
 
+- [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - agent runtime security - zero trust, zero setup, zero latency agent sandboxing
+- [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents.
 - [cosmicspork/tracon](https://github.com/cosmicspork/tracon) - Drive coding agents from any device while a supervisor you run enforces the boundary: sandboxed harnesses, brokered credentials, review-before-publish. One static Rust binary.
 - [sengac/fspec](https://github.com/sengac/fspec) - FSPEC: The Spec-Driven, Multi-Agent Harness. It is infrastructure for the "Dark Factory" - the emerging model of fully autonomous software development where AI agents handle all implementation while h
 - [Dicklesworthstone/jeffs_math_explainer_videos](https://github.com/Dicklesworthstone/jeffs_math_explainer_videos) - Narrated, 3Blue1Brown-style 4K math explainer videos built in Rust with franken_manim (native TeX, no LaTeX, no Python) and voiced by FrankenTTS. Every number computed and oracle-checked, every line A
@@ -360,7 +366,7 @@
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [codescene-oss/codescene-mcp-server](https://github.com/codescene-oss/codescene-mcp-server) - The CodeScene MCP Server exposes CodeScene’s Code Health analysis as local AI-friendly tools.
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
-- [xberg-io/xberg](https://github.com/xberg-io/xberg) - Polyglot document intelligence with a Rust core: extract text, metadata, images, tables, and structured data from 106 formats across 140 file extensions, plus code intelligence for 371 languages. Fift
+- [xberg-io/xberg](https://github.com/xberg-io/xberg) - The fast, precise document-intelligence engine for every language: text, tables and metadata from 100+ formats, with OCR, transcription and code intelligence.
 - [golbin/gw](https://github.com/golbin/gw) - 
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
 - [Dicklesworthstone/coding_agent_session_search](https://github.com/Dicklesworthstone/coding_agent_session_search) - Unified TUI and CLI to index and search your local coding agent session history across 30+ providers (Codex, Claude Code, Gemini, Cursor, Aider, Copilot, and more) into one searchable timeline. Hybrid
@@ -398,6 +404,7 @@
 
 ## TypeScript 
 
+- [Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules) - Open detection-rule standard for AI agent security threats — like Sigma, but for AI agents. Executable, testable rules for prompt injection, tool poisoning, context exfiltration and MCP attacks. Merge
 - [AmintaCCCP/GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) - AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking
 - [winnin/farol](https://github.com/winnin/farol) - Know the risk of merging a pull request, and where it lives. Free, open-source CLI and GitHub Action: after your AI review, farol shows the riskiest files, what they reach, diff coverage and contract 
 - [zuhairhalawa/studyai](https://github.com/zuhairhalawa/studyai) - A local-first study platform for university lectures: PowerPoint slides, spaced repetition, exams, and an optional AI tutor on the Gemini free tier.
