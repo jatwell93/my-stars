@@ -43,12 +43,14 @@
 - [cli](#cli)
 - [clojure](#clojure)
 - [cloud](#cloud)
+- [code](#code)
 - [code-quality](#code-quality)
 - [code-review](#code-review)
 - [coding](#coding)
 - [command-line](#command-line)
 - [computer-science](#computer-science)
 - [computer-vision](#computer-vision)
+- [cpp](#cpp)
 - [cryptocurrency](#cryptocurrency)
 - [csharp](#csharp)
 - [css](#css)
@@ -283,9 +285,11 @@
 
 ## ai 
 
+- [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks from beginner to power user!
 - [snyk/agent-scan](https://github.com/snyk/agent-scan) - Security scanner for AI agents, MCP servers and agent skills.
 - [vaproh/awesome-coding-plans](https://github.com/vaproh/awesome-coding-plans) - A curated comparison of AI coding subscriptions and token plans, models, pricing, student discounts, and best picks. 20+ plans compared.
 - [vercel-labs/eve-software-factory-template](https://github.com/vercel-labs/eve-software-factory-template) - Meet Foreman, an eve Software Factory.
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [ashishps1/learn-ai-engineering](https://github.com/ashishps1/learn-ai-engineering) - Learn AI and LLMs from scratch using free resources
 - [hrnbot/Basic-Mathematics-for-Machine-Learning](https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning) - The motive behind Creating this repo is to feel the fear of mathematics and do what ever you want to do in Machine Learning , Deep Learning  and other fields of AI
 - [walkinglabs/awesome-harness-engineering](https://github.com/walkinglabs/awesome-harness-engineering) - 🛠️ Awesome tools & guides for harness engineering.
@@ -349,6 +353,7 @@
 
 ## ai-agent 
 
+- [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks from beginner to power user!
 - [iusztinpaul/squid](https://github.com/iusztinpaul/squid) - The Software Factory
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 - [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes) - ⚚ The coding harness with Hermes Agent wired into IDE.
@@ -368,7 +373,6 @@
 - [usezn/zn](https://github.com/usezn/zn) - The local security layer for coding agents. Use Claude Code, Codex CLI, Cursor, OpenCode, Antigravity or the ZCode desktop app without exposing your secrets, your data or your systems. Open source (MI
 - [elie222/rakazo](https://github.com/elie222/rakazo) - Open-source Grok Bot alternative. Choose your own model and sandbox.
 - [owainlewis/machinist](https://github.com/owainlewis/machinist) - Open source software factory infrastructure for advanced AI coding workflows
-- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [pikpikcu/airecon](https://github.com/pikpikcu/airecon) - AIRecon is an autonomous cybersecurity agent that combines a self-hosted Large Language Model (Ollama) with a Kali Linux Docker sandbox and a Textual TUI. It is designed to automate security assessmen
 - [Dicklesworthstone/skillranker](https://github.com/Dicklesworthstone/skillranker) - Rust CLI powered by Jev from TypeSafe.ai that ranks agent skills for the next step using live session context. Includes Claude Code hooks, structured JSON, abstention, and local feedback. Requires a T
 - [huytieu/COG-second-brain](https://github.com/huytieu/COG-second-brain) - Self-evolving second brain with 35 AI skills, 10 agents, and people CRM. Closed-loop harness: a V-model verification lifecycle where the worker never grades its own homework. Plus paired anti-slop des
@@ -433,6 +437,7 @@
 
 ## android 
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
@@ -600,6 +605,7 @@
 
 ## claude 
 
+- [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks from beginner to power user!
 - [Jakeschincariol/replica-skill](https://github.com/Jakeschincariol/replica-skill) - Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.
 - [assafkip/claudemy](https://github.com/assafkip/claudemy) - Claudemy: an open-source alternative to Udemy and Coursera. Give Claude a topic, it researches the web and builds a course of 2-minute audio lessons with cited sources. A free Claude Code skill.
 - [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biolog
@@ -639,6 +645,7 @@
 
 ## claude-code 
 
+- [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks from beginner to power user!
 - [scadastrangelove/agent-audit](https://github.com/scadastrangelove/agent-audit) - Forensic auditor for local AI coding agents (Claude Code, Codex CLI, OpenClaw) and project-surface scanner for repos containing skills, plugins, and MCP manifests. Reads session logs, configs, and ins
 - [usezn/zn](https://github.com/usezn/zn) - The local security layer for coding agents. Use Claude Code, Codex CLI, Cursor, OpenCode, Antigravity or the ZCode desktop app without exposing your secrets, your data or your systems. Open source (MI
 - [owainlewis/machinist](https://github.com/owainlewis/machinist) - Open source software factory infrastructure for advanced AI coding workflows
@@ -750,6 +757,10 @@
 
 - [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
 
+## code 
+
+- [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks from beginner to power user!
+
 ## code-quality 
 
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
@@ -791,6 +802,10 @@
 - [gbourniq/bank-statement-analysis](https://github.com/gbourniq/bank-statement-analysis) - Flask-based application that analyses bank statements to generate interactive visualizations and analytical reports. Features include OCR-based data extraction, machine learning for transaction catego
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn AI Engineering! Learn it. Build it. Ship it for others.
+
+## cpp 
+
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 
 ## cryptocurrency 
 
@@ -876,7 +891,6 @@
 - [winnin/farol](https://github.com/winnin/farol) - Know the risk of merging a pull request, and where it lives. Free, open-source CLI and GitHub Action: after your AI review, farol shows the riskiest files, what they reach, diff coverage and contract 
 - [vaproh/awesome-coding-plans](https://github.com/vaproh/awesome-coding-plans) - A curated comparison of AI coding subscriptions and token plans, models, pricing, student discounts, and best picks. 20+ plans compared.
 - [owainlewis/machinist](https://github.com/owainlewis/machinist) - Open source software factory infrastructure for advanced AI coding workflows
-- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [Dicklesworthstone/skillranker](https://github.com/Dicklesworthstone/skillranker) - Rust CLI powered by Jev from TypeSafe.ai that ranks agent skills for the next step using live session context. Includes Claude Code hooks, structured JSON, abstention, and local feedback. Requires a T
 - [quinnjr/claude-code-profiles](https://github.com/quinnjr/claude-code-profiles) - Manage multiple Claude Code configuration profiles. Switch between work, personal, and other accounts without logging in and out.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
@@ -964,6 +978,7 @@
 
 ## electron 
 
+- [getopenscreen/openscreen](https://github.com/getopenscreen/openscreen) - Record your screen, ship a demo. Free and open-source, GPU-accelerated, no watermarks, no subscriptions. Windows, macOS, Linux. Actively maintained.
 - [AmintaCCCP/GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) - AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking
 - [elie222/rakazo](https://github.com/elie222/rakazo) - Open-source Grok Bot alternative. Choose your own model and sandbox.
 - [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
@@ -1131,6 +1146,7 @@
 
 ## html 
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [oldnum/cardesc](https://github.com/oldnum/cardesc) - 💳 Cardesc - is a universal financial transaction demo page with data logging for educational purposes.
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
@@ -1163,6 +1179,7 @@
 
 ## java 
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [alumnium-hq/alumnium](https://github.com/alumnium-hq/alumnium) - End-to-End Testing Harness
 - [SirChri/employee-shift-scheduler](https://github.com/SirChri/employee-shift-scheduler) - A simple employee shift scheduler, based on React, Java (SpringBoot) and PostgreSQL.
 - [xberg-io/xberg](https://github.com/xberg-io/xberg) - The fast, precise document-intelligence engine for every language: text, tables and metadata from 100+ formats, with OCR, transcription and code intelligence.
@@ -1171,6 +1188,7 @@
 ## javascript 
 
 - [frappe/lms](https://github.com/frappe/lms) - Easy to Use, 100% Open Source Learning Management System
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
 - [vizzuhq/vizzu-lib](https://github.com/vizzuhq/vizzu-lib) - Library for animated data visualizations and data stories.
@@ -1216,6 +1234,7 @@
 ## linux 
 
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [quinnjr/claude-code-profiles](https://github.com/quinnjr/claude-code-profiles) - Manage multiple Claude Code configuration profiles. Switch between work, personal, and other accounts without logging in and out.
 - [noob-hackers/ipdrone](https://github.com/noob-hackers/ipdrone) - Track Location With Live Address And Accuracy In Termux
 - [Helvesec/rmux](https://github.com/Helvesec/rmux) - Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows.
@@ -1231,7 +1250,6 @@
 - [elie222/rakazo](https://github.com/elie222/rakazo) - Open-source Grok Bot alternative. Choose your own model and sandbox.
 - [Runfusion/Fusion](https://github.com/Runfusion/Fusion) - Your Software Factory - build faster and better with multi node agents that work 24/7
 - [rollroyces/py-idp](https://github.com/rollroyces/py-idp) - AI-enabled Intelligent Document Processing for Python: 12+ LLM backends, Pydantic schemas, self-hosted OCR (Nanonets-OCR2-3B), auto-schema discovery, HITL review, prod FastAPI server. AGPL-3.0 + comme
-- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - AI gets the context. Not your private data. Local-first privacy proxy for browser chat, AI APIs, and coding agents.
 - [ashishps1/learn-ai-engineering](https://github.com/ashishps1/learn-ai-engineering) - Learn AI and LLMs from scratch using free resources
 - [decodingai-magazine/second-brain-ai-assistant-course](https://github.com/decodingai-magazine/second-brain-ai-assistant-course) - Learn to build your Second Brain AI assistant with LLMs, agents, RAG, fine-tuning, LLMOps and AI systems techniques.
@@ -1328,6 +1346,7 @@
 
 ## mcp 
 
+- [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks from beginner to power user!
 - [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - agent runtime security - zero trust, zero setup, zero latency agent sandboxing
 - [snyk/agent-scan](https://github.com/snyk/agent-scan) - Security scanner for AI agents, MCP servers and agent skills.
 - [usezn/zn](https://github.com/usezn/zn) - The local security layer for coding agents. Use Claude Code, Codex CLI, Cursor, OpenCode, Antigravity or the ZCode desktop app without exposing your secrets, your data or your systems. Open source (MI
@@ -1412,6 +1431,7 @@
 
 ## nodejs 
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) - Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. 
 - [dembrandt/dembrandt](https://github.com/dembrandt/dembrandt) - Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.
@@ -1446,6 +1466,7 @@
 
 ## open-source 
 
+- [getopenscreen/openscreen](https://github.com/getopenscreen/openscreen) - Record your screen, ship a demo. Free and open-source, GPU-accelerated, no watermarks, no subscriptions. Windows, macOS, Linux. Actively maintained.
 - [usezn/zn](https://github.com/usezn/zn) - The local security layer for coding agents. Use Claude Code, Codex CLI, Cursor, OpenCode, Antigravity or the ZCode desktop app without exposing your secrets, your data or your systems. Open source (MI
 - [frappe/lms](https://github.com/frappe/lms) - Easy to Use, 100% Open Source Learning Management System
 - [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
@@ -1511,6 +1532,7 @@
 
 ## others 
 
+- [nilbuild/driver.js](https://github.com/nilbuild/driver.js) - A lightweight, dependency-free JavaScript library for guiding user focus across the page.
 - [Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules) - Open detection-rule standard for AI agent security threats — like Sigma, but for AI agents. Executable, testable rules for prompt injection, tool poisoning, context exfiltration and MCP attacks. Merge
 - [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents.
 - [smsolutionsva-byte/ledgerwise](https://github.com/smsolutionsva-byte/ledgerwise) - LedgerWise is a Streamlit-based bookkeeping and Excel operations assistant for virtual assistants and bookkeepers, with SQLite accounting, journal entries, reports, imports, cleanup tools, and VA auto
@@ -1738,6 +1760,7 @@
 
 - [winnin/farol](https://github.com/winnin/farol) - Know the risk of merging a pull request, and where it lives. Free, open-source CLI and GitHub Action: after your AI review, farol shows the riskiest files, what they reach, diff coverage and contract 
 - [frappe/lms](https://github.com/frappe/lms) - Easy to Use, 100% Open Source Learning Management System
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [pikpikcu/airecon](https://github.com/pikpikcu/airecon) - AIRecon is an autonomous cybersecurity agent that combines a self-hosted Large Language Model (Ollama) with a Kali Linux Docker sandbox and a Textual TUI. It is designed to automate security assessmen
 - [decodingai-magazine/second-brain-ai-assistant-course](https://github.com/decodingai-magazine/second-brain-ai-assistant-course) - Learn to build your Second Brain AI assistant with LLMs, agents, RAG, fine-tuning, LLMOps and AI systems techniques.
 - [hrnbot/Basic-Mathematics-for-Machine-Learning](https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning) - The motive behind Creating this repo is to feel the fear of mathematics and do what ever you want to do in Machine Learning , Deep Learning  and other fields of AI
@@ -1819,6 +1842,7 @@
 ## react 
 
 - [winnin/farol](https://github.com/winnin/farol) - Know the risk of merging a pull request, and where it lives. Free, open-source CLI and GitHub Action: after your AI review, farol shows the riskiest files, what they reach, diff coverage and contract 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [vavallee/bindery](https://github.com/vavallee/bindery) - Automated book download manager for Usenet. Monitor authors, search indexers, download via SABnzbd, and organize your library. The modern replacement for Readarr.
 - [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) - Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. 
 - [millionco/react-doctor](https://github.com/millionco/react-doctor) - Your agent writes bad React. This catches it
@@ -1871,7 +1895,6 @@
 
 ## reverse-engineering 
 
-- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [Jakeschincariol/replica-skill](https://github.com/Jakeschincariol/replica-skill) - Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.
 - [dembrandt/dembrandt](https://github.com/dembrandt/dembrandt) - Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.
 
@@ -1888,7 +1911,9 @@
 
 ## rust 
 
+- [getopenscreen/openscreen](https://github.com/getopenscreen/openscreen) - Record your screen, ship a demo. Free and open-source, GPU-accelerated, no watermarks, no subscriptions. Windows, macOS, Linux. Actively maintained.
 - [sophia486/pii-gui](https://github.com/sophia486/pii-gui) - Local-first desktop app that finds and redacts PII in PDFs, Markdown and text, with no document content leaving your device
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [Dicklesworthstone/jeffs_math_explainer_videos](https://github.com/Dicklesworthstone/jeffs_math_explainer_videos) - Narrated, 3Blue1Brown-style 4K math explainer videos built in Rust with franken_manim (native TeX, no LaTeX, no Python) and voiced by FrankenTTS. Every number computed and oracle-checked, every line A
 - [Dicklesworthstone/skillranker](https://github.com/Dicklesworthstone/skillranker) - Rust CLI powered by Jev from TypeSafe.ai that ranks agent skills for the next step using live session context. Includes Claude Code hooks, structured JSON, abstention, and local feedback. Requires a T
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
@@ -1917,6 +1942,7 @@
 - [snyk/agent-scan](https://github.com/snyk/agent-scan) - Security scanner for AI agents, MCP servers and agent skills.
 - [usezn/zn](https://github.com/usezn/zn) - The local security layer for coding agents. Use Claude Code, Codex CLI, Cursor, OpenCode, Antigravity or the ZCode desktop app without exposing your secrets, your data or your systems. Open source (MI
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - AI gets the context. Not your private data. Local-first privacy proxy for browser chat, AI APIs, and coding agents.
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
 - [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
@@ -2080,8 +2106,10 @@
 
 ## typescript 
 
+- [getopenscreen/openscreen](https://github.com/getopenscreen/openscreen) - Record your screen, ship a demo. Free and open-source, GPU-accelerated, no watermarks, no subscriptions. Windows, macOS, Linux. Actively maintained.
 - [winnin/farol](https://github.com/winnin/farol) - Know the risk of merging a pull request, and where it lives. Free, open-source CLI and GitHub Action: after your AI review, farol shows the riskiest files, what they reach, diff coverage and contract 
 - [elie222/rakazo](https://github.com/elie222/rakazo) - Open-source Grok Bot alternative. Choose your own model and sandbox.
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [mvschwarz/openrig](https://github.com/mvschwarz/openrig) - Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [code-yeongyu/lazycodex](https://github.com/code-yeongyu/lazycodex) - The one and only agent harness for complex codebases. Project memory, planning, execution, and verified completion inside Codex.
