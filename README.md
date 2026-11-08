@@ -24,7 +24,6 @@
 - [Others](#others)
 - [PHP](#php)
 - [Perl](#perl)
-- [PowerShell](#powershell)
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -221,12 +220,9 @@
 
 - [szabgab/awesome-lists](https://github.com/szabgab/awesome-lists) - The awesome list of all the awesome lists
 
-## PowerShell 
-
-- [zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI) - Force Remove Copilot, Recall and More in Windows 11
-
 ## Python 
 
+- [nickvasilescu/nicks-stack](https://github.com/nickvasilescu/nicks-stack) - Nick's Stack — a ready-to-run Hermes AI agent template for Orgo (Telegram QR onboarding, Composio, AgentPhone SMS, Obsidian, gpt-5.5). Bring your own keys; zero secrets baked in.
 - [LukePrior/Australian-Open-Banking-Data-Database](https://github.com/LukePrior/Australian-Open-Banking-Data-Database) - This is an ongoing collection of Open Banking Data APIs for Australian deposit taking institutions.
 - [siddsachar/row-bot](https://github.com/siddsachar/row-bot) - Row-Bot - Personal AI Sovereignty. A local-first AI assistant with integrated tools, a personal knowledge graph, voice, vision, shell, browser automation, scheduled tasks, health tracking, and messagi
 - [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
@@ -415,6 +411,8 @@
 
 ## TypeScript 
 
+- [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The batteries-included full-stack framework for the AI era. Develop JS/TS web apps (React, Node.js, and Prisma) using declarative code that abstracts away complex full-stack features like auth, backgr
+- [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) - Open-source Grok Bot alternative with a virtual machine that bots can use
 - [Turtlecute33/Privacy.sexy-Revamped](https://github.com/Turtlecute33/Privacy.sexy-Revamped) - Free, open-source script builder that debloats and hardens Windows, macOS, and Linux. A maintained fork of privacy.sexy.
 - [jimmykane/quantified-self](https://github.com/jimmykane/quantified-self) - Analyze your data from Garmin, Suunto, Coros, Wahoo and more to one centralized app
 - [MBombeck/HealthLog](https://github.com/MBombeck/HealthLog) - Self-hosted, privacy-first health tracking PWA — weight, blood pressure, glucose, sleep, mood, medications, cycle. Withings, WHOOP, Fitbit and Apple Health sync, AI insights you own.
