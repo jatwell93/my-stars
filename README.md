@@ -47,7 +47,6 @@
 
 ## C++ 
 
-- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 
@@ -77,6 +76,7 @@
 
 ## Go 
 
+- [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) - Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 - [Agent-Field/CodeAF](https://github.com/Agent-Field/CodeAF) - Open-Source Software factory for Open Models
 - [altship-hq/safeclone](https://github.com/altship-hq/safeclone) - 
 - [owainlewis/machinist](https://github.com/owainlewis/machinist) - Open source software factory infrastructure for advanced AI coding workflows
@@ -114,7 +114,7 @@
 - [Manavarya09/design-extract](https://github.com/Manavarya09/design-extract) - Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Comp
 - [techjarves/USB-Uncensored-LLM](https://github.com/techjarves/USB-Uncensored-LLM) - The ultimate zero-install, portable local AI environment. Run high-quality, uncensored LLMs (Gemma, Qwen, NemoMix) directly from any USB drive or SSD. Fully air-gapped, cross-platform (Win/Mac/Linux),
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
-- [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) - 385 AI skills, 76 expert agents, and 906 stdlib Python tools for every team: engineering, PM, marketing, C-level, compliance, business ops, research, and a LinkedIn toolkit. Installs on Claude Code, C
+- [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) - 403 AI skills, 76 expert agents, and 973 stdlib Python tools for every team: engineering, UI/UX design, PM, marketing, C-level, compliance, business ops, research, founders, and a LinkedIn toolkit. In
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 
 ## Java 
@@ -132,7 +132,6 @@
 - [stephenlthorn/auto-identity-remove](https://github.com/stephenlthorn/auto-identity-remove) - Automated data broker opt-out runner — removes your personal info from 30+ people-search sites on a monthly schedule
 - [ruvelro/openGym](https://github.com/ruvelro/openGym) - Mirror of the openGym project (gitlab.com/DuarteSantos8/opengym) — self-hosted gym & body-weight tracker. Development happens upstream; this copy syncs every Monday.
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI
-- [arvids-unavailable/openGym](https://github.com/arvids-unavailable/openGym) - https://github.com/DuarteSantos8/openGym
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
 - [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) - The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero conf
 - [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
@@ -176,6 +175,7 @@
 
 ## Others 
 
+- [ModelContextProtocol-Security/mcpserver-audit](https://github.com/ModelContextProtocol-Security/mcpserver-audit) - mcpserver-audit: Helps you check if MCP servers are safe before using them. Examines servers for security problems, supports publishing findings in audit-db and vulnerability-db. Part of the Model Con
 - [woop/awesome-quantified-self](https://github.com/woop/awesome-quantified-self) - :bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking
 - [markwk/awesome-biomarkers](https://github.com/markwk/awesome-biomarkers) - Curated List of Biomarkers, Blood Tests, and Blood Tracking
 - [farhanashrafdev/90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity) - This repository contains a 90-day cybersecurity study plan, along with resources and materials for learning various cybersecurity concepts and technologies. The plan is organized into daily tasks, cov
@@ -222,6 +222,11 @@
 
 ## Python 
 
+- [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and c
+- [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) - Secure, Fast, and Extensible Sandbox runtime for AI agents.
+- [AMAP-ML/LongHorizon-Harness](https://github.com/AMAP-ML/LongHorizon-Harness) - The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-
+- [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) - Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills befo
+- [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) - ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works wi
 - [nickvasilescu/nicks-stack](https://github.com/nickvasilescu/nicks-stack) - Nick's Stack — a ready-to-run Hermes AI agent template for Orgo (Telegram QR onboarding, Composio, AgentPhone SMS, Obsidian, gpt-5.5). Bring your own keys; zero secrets baked in.
 - [LukePrior/Australian-Open-Banking-Data-Database](https://github.com/LukePrior/Australian-Open-Banking-Data-Database) - This is an ongoing collection of Open Banking Data APIs for Australian deposit taking institutions.
 - [siddsachar/row-bot](https://github.com/siddsachar/row-bot) - Row-Bot - Personal AI Sovereignty. A local-first AI assistant with integrated tools, a personal knowledge graph, voice, vision, shell, browser automation, scheduled tasks, health tracking, and messagi
@@ -244,7 +249,6 @@
 - [nykooi1/vibe-wise](https://github.com/nykooi1/vibe-wise) - A Claude Code / Codex plugin that helps you learn how to build while AI writes the code.
 - [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) - 
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
-- [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes) - ⚚ The coding harness with Hermes Agent wired into IDE.
 - [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser 
 - [HUANGCHIHHUNGLeo/claude-real-video](https://github.com/HUANGCHIHHUNGLeo/claude-real-video) - Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.
 - [makerspet/oomwoo](https://github.com/makerspet/oomwoo) - Open-source vacuum robot cleaner
@@ -342,6 +346,7 @@
 
 ## Rust 
 
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast and lightweight sandboxes for your apps and AI agents
 - [agent-sh/agnix](https://github.com/agent-sh/agnix) - The missing linter and lsp for AI coding assistants. Validate CLAUDE.md, AGENTS.md, SKILL.md, hooks, MCP. Plugin for all major IDEs included, with autofixes.
 - [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - agent runtime security - zero trust, zero setup, zero latency agent sandboxing
 - [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents.
@@ -368,6 +373,7 @@
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [block/ai-rules](https://github.com/block/ai-rules) - Manage AI rules, commands, and skills across multiple coding agents from one place.
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [mikeyobrien/ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) - An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [codescene-oss/codescene-mcp-server](https://github.com/codescene-oss/codescene-mcp-server) - The CodeScene MCP Server exposes CodeScene’s Code Health analysis as local AI-friendly tools.
@@ -381,6 +387,7 @@
 
 ## Shell 
 
+- [jellydn/my-ai-tools](https://github.com/jellydn/my-ai-tools) - Comprehensive configuration management for AI coding tools - Replicate my complete setup for Claude Code, OpenCode, Amp, Li, Codex and Claude Code Switch with custom configurations, MCP servers, plugi
 - [vasanthsreeram/Alvarmethod](https://github.com/vasanthsreeram/Alvarmethod) - One-to-one AI teaching skills (Alvar method) for Codex, Claude Code, Grok, Pi, and OpenCode
 - [Cyb0r9/SocialBox](https://github.com/Cyb0r9/SocialBox) - SocialBox is a Bruteforce Attack Framework [ Facebook , Gmail , Instagram ,Twitter ] , Coded By Belahsan Ouerghi
 - [nirmitgoyal/agile-loop](https://github.com/nirmitgoyal/agile-loop) - Combining the best powers of GStack+GSD+SuperPowers in a Ralph-Loop
@@ -388,7 +395,6 @@
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [steipete/agent-scripts](https://github.com/steipete/agent-scripts) - Scripts for agents, shared between my repositories.
 - [0xNyk/council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence) - Structured multi-perspective deliberation for hard decisions. Run full councils, focused triads, or duo debates across Claude Code, Codex, Gemini CLI, and OpenCode.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [agenticapps-eu/claude-workflow](https://github.com/agenticapps-eu/claude-workflow) - Portable Claude Code workflow: Superpowers + GSD + gstack with enforced pre/post phase hooks
 - [zhangtianwei1998/GStack-GSD-Superpowers](https://github.com/zhangtianwei1998/GStack-GSD-Superpowers) - GStack + GSD + Superpowers组合工作流
 - [hatewx/cc-switch-mode](https://github.com/hatewx/cc-switch-mode) - Claude Code mode switcher for GSD, gstack, Superpowers, Oh My IPD, OMC, and OpenSpec workflows.
@@ -411,6 +417,8 @@
 
 ## TypeScript 
 
+- [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams-first Multi-agent orchestration for Claude Code
+- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% loca
 - [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The batteries-included full-stack framework for the AI era. Develop JS/TS web apps (React, Node.js, and Prisma) using declarative code that abstracts away complex full-stack features like auth, backgr
 - [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) - Open-source Grok Bot alternative with a virtual machine that bots can use
 - [Turtlecute33/Privacy.sexy-Revamped](https://github.com/Turtlecute33/Privacy.sexy-Revamped) - Free, open-source script builder that debloats and hardens Windows, macOS, and Linux. A maintained fork of privacy.sexy.
@@ -440,9 +448,7 @@
 - [hardkoded/ai-engineering-coach-plugin](https://github.com/hardkoded/ai-engineering-coach-plugin) - better agentic engineering
 - [chrisurf/obsidian-voice](https://github.com/chrisurf/obsidian-voice) - 🔊 The Obsidian Voice plugin lets you listen to your written content being read aloud—mobile-friendly audiobook-like experience. 🎧
 - [mvschwarz/openrig](https://github.com/mvschwarz/openrig) - Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.
-- [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) - Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
-- [plastic-labs/tutor-gpt](https://github.com/plastic-labs/tutor-gpt) - AI tutor powered by Theory-of-Mind reasoning
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, 
 - [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s
