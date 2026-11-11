@@ -119,13 +119,13 @@
 
 ## Java 
 
-- [piermark/omarchytv](https://github.com/piermark/omarchytv) - Omarchy-styled tiling launcher ecosystem for Android TV, Google TV, LG webOS, Android Mobile & Linux/macOS/Omarchy PCs
 - [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources.
 - [SirChri/employee-shift-scheduler](https://github.com/SirChri/employee-shift-scheduler) - A simple employee shift scheduler, based on React, Java (SpringBoot) and PostgreSQL.
 
 ## JavaScript 
 
 - [usezn/zn](https://github.com/usezn/zn) - The local security layer for coding agents. Use Claude Code, Codex CLI, Cursor, OpenCode, Antigravity or the ZCode desktop app without exposing your secrets, your data or your systems. Open source (MI
+- [piermark/omarchytv](https://github.com/piermark/omarchytv) - Omarchy-styled tiling launcher ecosystem for Android TV, Google TV, LG webOS, Android Mobile & Linux/macOS/Omarchy PCs
 - [fmacpro/horseman-article-parser-ui](https://github.com/fmacpro/horseman-article-parser-ui) - Web Page Inspection Tool UI. Article Summary, Sentiment Analysis, Keyword Extraction, Named Entity Recognition & Spell Check
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) - Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. 
@@ -222,6 +222,7 @@
 
 ## Python 
 
+- [axoviq-ai/synthadoc](https://github.com/axoviq-ai/synthadoc) - Synthadoc: An open-source LLM knowledge compilation engine that turns raw documents into structured, local-first wikis. A transparent, human-readable alternative to traditional RAG, which can be self-
 - [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and c
 - [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) - Secure, Fast, and Extensible Sandbox runtime for AI agents.
 - [AMAP-ML/LongHorizon-Harness](https://github.com/AMAP-ML/LongHorizon-Harness) - The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-
@@ -421,7 +422,7 @@
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% loca
 - [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The batteries-included full-stack framework for the AI era. Develop JS/TS web apps (React, Node.js, and Prisma) using declarative code that abstracts away complex full-stack features like auth, backgr
 - [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) - Open-source Grok Bot alternative with a virtual machine that bots can use
-- [Turtlecute33/Privacy.sexy-Revamped](https://github.com/Turtlecute33/Privacy.sexy-Revamped) - Free, open-source script builder that debloats and hardens Windows, macOS, and Linux. A maintained fork of privacy.sexy.
+- [Turtlecute33/Debloat.net](https://github.com/Turtlecute33/Debloat.net) - Debloat Windows 11, disable telemetry, and harden macOS and Linux. Pick tweaks, read every command, download a ready-to-run script. Free, open source, no install. The maintained fork of privacy.sexy.
 - [jimmykane/quantified-self](https://github.com/jimmykane/quantified-self) - Analyze your data from Garmin, Suunto, Coros, Wahoo and more to one centralized app
 - [MBombeck/HealthLog](https://github.com/MBombeck/HealthLog) - Self-hosted, privacy-first health tracking PWA — weight, blood pressure, glucose, sleep, mood, medications, cycle. Withings, WHOOP, Fitbit and Apple Health sync, AI insights you own.
 - [shashankswe2020-ux/whoop-mcp](https://github.com/shashankswe2020-ux/whoop-mcp) - Read-only WHOOP MCP server for recovery, sleep, HRV, strain, workouts, and personal health analytics in Claude, Codex, and GitHub Copilot.
