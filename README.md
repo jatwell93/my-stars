@@ -224,6 +224,7 @@
 
 ## Python 
 
+- [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) - AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.
 - [axoviq-ai/synthadoc](https://github.com/axoviq-ai/synthadoc) - Synthadoc: An open-source LLM knowledge compilation engine that turns raw documents into structured, local-first wikis. A transparent, human-readable alternative to traditional RAG, which can be self-
 - [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and c
 - [AMAP-ML/LongHorizon-Harness](https://github.com/AMAP-ML/LongHorizon-Harness) - The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-
@@ -335,6 +336,7 @@
 
 ## Ruby 
 
+- [we-promise/sure](https://github.com/we-promise/sure) - The personal finance app for everyone (by everyone)
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 - [railsbridge/docs](https://github.com/railsbridge/docs) - Curriculum for RailsBridge workshops
@@ -389,7 +391,7 @@
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
 - [Dicklesworthstone/coding_agent_session_search](https://github.com/Dicklesworthstone/coding_agent_session_search) - Unified TUI and CLI to index and search your local coding agent session history across 30+ providers (Codex, Claude Code, Gemini, Cursor, Aider, Copilot, and more) into one searchable timeline. Hybrid
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-- [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
+- [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, observe, discover, and react to every service in real-time for the first time ever.
 
 ## Shell 
 
@@ -429,7 +431,7 @@
 - [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) - Open-source Grok Bot alternative with a virtual machine that bots can use
 - [Turtlecute33/Debloat.net](https://github.com/Turtlecute33/Debloat.net) - Debloat Windows 11, disable telemetry, and harden macOS and Linux. Pick tweaks, read every command, download a ready-to-run script. Free, open source, no install. The maintained fork of privacy.sexy.
 - [jimmykane/quantified-self](https://github.com/jimmykane/quantified-self) - Analyze your data from Garmin, Suunto, Coros, Wahoo and more to one centralized app
-- [MBombeck/HealthLog](https://github.com/MBombeck/HealthLog) - Self-hosted, privacy-first health tracking PWA — weight, blood pressure, glucose, sleep, mood, medications, cycle. Withings, WHOOP, Fitbit and Apple Health sync, AI insights you own.
+- [MBombeck/HealthLog](https://github.com/MBombeck/HealthLog) - Self-hosted health tracking PWA for weight, blood pressure, glucose, sleep, mood, medications and cycle, with sync from Apple Health, Withings, WHOOP, Oura, Polar, Garmin, Strava, Google Health and Ni
 - [shashankswe2020-ux/whoop-mcp](https://github.com/shashankswe2020-ux/whoop-mcp) - Read-only WHOOP MCP server for recovery, sleep, HRV, strain, workouts, and personal health analytics in Claude, Codex, and GitHub Copilot.
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [ashugaev/bloodboy-biomarkers-tracker](https://github.com/ashugaev/bloodboy-biomarkers-tracker) - Track and visualize your blood test results over time with AI-powered data extraction
@@ -483,7 +485,7 @@
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 - [wanikua/become-ceo](https://github.com/wanikua/become-ceo) - Your AI executive team on Discord. 7 specialized agents — Engineering, Finance, Marketing, DevOps, Legal, Management, Chief of Staff. One-click setup on any free-tier server. Built on Clawdbot.
 - [inkeep/agents](https://github.com/inkeep/agents) - Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.
-- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - The best way to control Claude Code, Codex and more from any computer or phone
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [neurofoo/thoughts-to-realities](https://github.com/neurofoo/thoughts-to-realities) - 
 - [open-gitagent/opengap](https://github.com/open-gitagent/opengap) - A framework-agnostic, git-native standard for defining AI agents
