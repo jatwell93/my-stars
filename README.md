@@ -47,6 +47,7 @@
 
 ## C++ 
 
+- [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 
@@ -98,7 +99,6 @@
 - [iosifache/annas-mcp](https://github.com/iosifache/annas-mcp) - MCP server and CLI tool for searching and downloading documents from Anna's Archive
 - [m0n0x41d/haft](https://github.com/m0n0x41d/haft) - Engineering decisions engine that know when they're stale. Frame, compare, decide — with evidence decay and parity enforcement. For Claude Code, Cursor, Gemini CLI, Codex and more.
 - [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS.
-- [AIPentest/CyberStrikeAI](https://github.com/AIPentest/CyberStrikeAI) - The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence becomes operational memory, and every operation improves the next.
 - [Dicklesworthstone/beads_viewer](https://github.com/Dicklesworthstone/beads_viewer) - Graph-aware TUI for the Beads issue tracker: PageRank, critical path, kanban, dependency DAG visualization, and robot-mode JSON API
 - [JordanCoin/codemap](https://github.com/JordanCoin/codemap) - a project brain for your AI. Give LLMs instant architectural context without burning tokens
 - [beclab/Olares](https://github.com/beclab/Olares) - Open-Source Personal Cloud OS for Always-On Agents
@@ -127,7 +127,8 @@
 
 ## JavaScript 
 
-- [usezn/zn](https://github.com/usezn/zn) - The local security layer for coding agents. Use Claude Code, Codex CLI, GitHub Copilot, Cursor, OpenCode, Antigravity or the ZCode desktop app without exposing your secrets, your data or your systems.
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up!
+- [usezn/zn](https://github.com/usezn/zn) - The local security layer for coding agents. Use Claude Code, Codex CLI, Cursor, OpenCode, Antigravity or the ZCode desktop app (plus Gemini CLI and Copilot CLI, experimental) without exposing your sec
 - [fmacpro/horseman-article-parser-ui](https://github.com/fmacpro/horseman-article-parser-ui) - Web Page Inspection Tool UI. Article Summary, Sentiment Analysis, Keyword Extraction, Named Entity Recognition & Spell Check
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) - Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. 
@@ -223,6 +224,8 @@
 
 ## Python 
 
+- [coleam00/ai-software-factory](https://github.com/coleam00/ai-software-factory) - You plan the release, the factory builds it, you test it in staging. GitHub issues in, independently reviewed and merged pull requests out, all on Archon workflows.
+- [swingerman/engineer](https://github.com/swingerman/engineer) - Disciplined Agentic Engineering — a methodology kit for Claude Code: acceptance-test-first specs, explicit checkpoints, and autonomy you can actually leave running. The engineer, atdd and crap-analyze
 - [ZhouYuxiang01/Australia-PII-Redaction](https://github.com/ZhouYuxiang01/Australia-PII-Redaction) - 
 - [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) - Open-source plugin for designing and reviewing software with agents
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
@@ -356,6 +359,8 @@
 
 ## Rust 
 
+- [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - An embeddable, portable, branchable virtual machine to safely run Agents locally.
+- [astrid-runtime/astrid](https://github.com/astrid-runtime/astrid) - Astrid is a portable, capability-secure operating system for composable software.
 - [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) - Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
 - [pydantic/monty](https://github.com/pydantic/monty) - A secure Python sandbox, written in Rust, for code written by AI.
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS.
@@ -426,12 +431,14 @@
 
 ## Svelte 
 
+- [Takalahiro/my-second-brain1](https://github.com/Takalahiro/my-second-brain1) - 
 - [supermarsx/bloody-level](https://github.com/supermarsx/bloody-level) - Blood-work/lab levels tracking app that is both privacy oriented and visually appealing
 - [joachimchauvet/modernstack-saas](https://github.com/joachimchauvet/modernstack-saas) - A modern SaaS template/boilerplate built with SvelteKit, Convex, Better Auth, and shadcn-svelte. Includes subscriptions, auth, user & admin dashboard, user settings, and more.
 
 ## TypeScript 
 
-- [HarnessMD/munder-difflin](https://github.com/HarnessMD/munder-difflin) - Coolest app to use agents, local, multi provider and open source grok bot alternative. Build custom worlds for your claude code and codex like agents
+- [b0x42/Super-Productivity-MCP](https://github.com/b0x42/Super-Productivity-MCP) - MCP server that connects AI assistants to Super Productivity — manage tasks, projects, and tags through Claude, Kiro, or any MCP client
+- [HarnessMD/munder-difflin](https://github.com/HarnessMD/munder-difflin) - Coolest app to use agents. A local, multi provider and open source grok bot alternative. Build custom worlds for your claude code and codex like agents
 - [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams-first Multi-agent orchestration for Claude Code
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% loca
 - [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The batteries-included full-stack framework for the AI era. Develop JS/TS web apps (React, Node.js, and Prisma) using declarative code that abstracts away complex full-stack features like auth, backgr
@@ -469,7 +476,7 @@
 - [RunMaestro/Maestro](https://github.com/RunMaestro/Maestro) - Agent Orchestration Command Center
 - [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.
-- [GurinderRawala/OmniKey-AI](https://github.com/GurinderRawala/OmniKey-AI) - OmniKey AI is a productivity tool that enhances your workflow with AI-powered prompt enhancements, grammar correction, and custom tasks.
+- [GurinderRawala/OmniKey-AI](https://github.com/GurinderRawala/OmniKey-AI) - Free, MIT-licensed desktop AI for macOS and Windows. Enhance prompts, fix grammar, and run agent workflows from a keyboard shortcut.
 - [anomalyco/sst](https://github.com/anomalyco/sst) - Build full-stack apps on your own infrastructure.
 - [millionco/react-doctor](https://github.com/millionco/react-doctor) - Your agent writes bad React. This catches it
 - [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
