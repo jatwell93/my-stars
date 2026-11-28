@@ -127,6 +127,7 @@
 
 ## JavaScript 
 
+- [LucasDuys/forge](https://github.com/LucasDuys/forge) - Turn a one-line idea into a branch with tested, reviewed, committed code. The brainstorm-to-commit pipeline for Claude Code.
 - [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up!
 - [usezn/zn](https://github.com/usezn/zn) - The local security layer for coding agents. Use Claude Code, Codex CLI, Cursor, OpenCode, Antigravity or the ZCode desktop app (plus Gemini CLI and Copilot CLI, experimental) without exposing your sec
 - [fmacpro/horseman-article-parser-ui](https://github.com/fmacpro/horseman-article-parser-ui) - Web Page Inspection Tool UI. Article Summary, Sentiment Analysis, Keyword Extraction, Named Entity Recognition & Spell Check
@@ -224,6 +225,8 @@
 
 ## Python 
 
+- [iha2/superlite](https://github.com/iha2/superlite) - A fast software factory workflow for Claude Code: one approval gate, parallel waves, routed models
+- [disler/super-simple-software-factory](https://github.com/disler/super-simple-software-factory) - Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it.
 - [coleam00/ai-software-factory](https://github.com/coleam00/ai-software-factory) - You plan the release, the factory builds it, you test it in staging. GitHub issues in, independently reviewed and merged pull requests out, all on Archon workflows.
 - [swingerman/engineer](https://github.com/swingerman/engineer) - Disciplined Agentic Engineering — a methodology kit for Claude Code: acceptance-test-first specs, explicit checkpoints, and autonomy you can actually leave running. The engineer, atdd and crap-analyze
 - [ZhouYuxiang01/Australia-PII-Redaction](https://github.com/ZhouYuxiang01/Australia-PII-Redaction) - 
@@ -359,6 +362,7 @@
 
 ## Rust 
 
+- [the-open-engine/zeroshot](https://github.com/the-open-engine/zeroshot) - Multi-agent graph harness for Claude Code, Codex and other coding agents. Separate agents review and test the work. Runs locally on your subscription.
 - [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - An embeddable, portable, branchable virtual machine to safely run Agents locally.
 - [astrid-runtime/astrid](https://github.com/astrid-runtime/astrid) - Astrid is a portable, capability-secure operating system for composable software.
 - [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) - Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
@@ -437,6 +441,12 @@
 
 ## TypeScript 
 
+- [Emanuele-web04/synara](https://github.com/Emanuele-web04/synara) - The best place to build with your AI sub
+- [maxritter/qualitylayer](https://github.com/maxritter/qualitylayer) - Plan, implement and verify software with your favorite coding agents. Work in the App or browser, or in your own terminal, IDE or agent app.
+- [NamerekT/even-keel](https://github.com/NamerekT/even-keel) - Works through your tasks overnight with Claude Code, Codex, OpenCode or Copilot, one at a time, and waits out usage limits instead of failing. Your tracker or the built-in one, a git repository or a p
+- [rudderlabs/devbox](https://github.com/rudderlabs/devbox) - Open source autonomous engineering harness in your cloud. One sandbox per task, no real secrets inside.
+- [bastani-inc/atomic](https://github.com/bastani-inc/atomic) - The verifiable coding agent runtime. Define your coding agent's process in natural language with stages, checks, and approval gates instead of hoping it follows your instructions. Primitives for verif
+- [mosonlab/anneal](https://github.com/mosonlab/anneal) - You write the specs. It clears the board: coding agent chains plan, review, implement, verify and merge unattended on your own machine, on the GPT and Claude subscriptions you already have.
 - [b0x42/Super-Productivity-MCP](https://github.com/b0x42/Super-Productivity-MCP) - MCP server that connects AI assistants to Super Productivity — manage tasks, projects, and tags through Claude, Kiro, or any MCP client
 - [HarnessMD/munder-difflin](https://github.com/HarnessMD/munder-difflin) - Coolest app to use agents. A local, multi provider and open source grok bot alternative. Build custom worlds for your claude code and codex like agents
 - [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams-first Multi-agent orchestration for Claude Code
